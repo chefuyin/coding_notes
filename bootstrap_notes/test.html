@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  </head>
+  <body>
+    <h1>hello world!</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+
+
+    <!-- 11上弹式菜单 跟分裂下拉菜单一样-->
+    <div class="btn-group dropup">
+      <button type="button" name="button" class="btn btn-danger">Dropup</button>
+      <button type="button"class="btn btn-danger dropdown-toggle"data-toggle ="dropdown" aria-haspopup="true" aria-expanded="false" name="button">
+        <span class="caret"></span>
+        <span class="sr-only">Toggle Dropdown</span>
+      </button>
+      <ul class="dropdown-menu">
+        <li><a href="#">ACTION</a></li>
+        <li><a href="#">ACTION</a></li>
+        <li><a href="#">ACTION</a></li>
+        <li><a href="#">ACTION</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="#">SEPERATED LINK</a></li>
+      </ul>
+
+    </div>
+
+
+    <!-- 10分列式下拉菜单 -->
+    <div class="btn-group">
+      <button type="button"class ="btn btn-danger" name="button">ACTION</button>
+      <button type="button"class="btn btn-danger dropdown-toggle"data-toggle ="dropdown" aria-haspopup="true" aria-expanded="false" name="button">
+        <span class="caret"></span>
+        <span class="sr-only">Toggle Dropdown</span>
+      </button>
+      <ul class="dropdown-menu">
+        <li><a href="#">ACTION</a></li>
+        <li><a href="#">ACTION</a></li>
+        <li><a href="#">ACTION</a></li>
+        <li><a href="#">ACTION</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="#">SEPERATED LINK</a></li>
+      </ul>
+    </div>
+
+
+
+
+    <br>
+    <br>
+    <!-- 09两端对齐的按钮组 -->
+    <div class="btn-group btn-group-justified" role="group" aria-label="...">
+      <div class="btn-group"role="group">
+        <button type="button" class="btn btn-success"name="button">111111111</button>
+      </div>
+      <div class="btn-group"role="group">
+        <button type="button" class="btn btn-success"name="button">111111111</button>
+      </div>
+      <div class="btn-group"role="group">
+        <button type="button" class="btn btn-success"name="button">111111111</button>
+      </div>
+    </div>
+
+
+    <br>
+    <br>
+    <!-- 08按钮垂直排列 -->
+    <div class="btn-group-vertical" role="group" aria-label ="...">
+      <button type="button" class="btn btn-success"name="button">111111111</button>
+      <button type="button" class="btn btn-success"name="button">111111111</button>
+      <button type="button" class="btn btn-success"name="button">111111111</button>
+      <button type="button" class="btn btn-success"name="button">111111111</button>
+      <button type="button" class="btn btn-success"name="button">111111111</button>
+      <button type="button" class="btn btn-success"name="button">111111111</button>
+      <div class="btn-group"role="group">
+        <button type="button" class ="btn btn primary dropdown-toggle" data-toggle="dropdown" aria-haspopup='true' aria-expanded="false" name="button">
+        dropdown
+        <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="#">link</a></li>
+          <li><a href="#">link</a></li>
+          <li><a href="#">link</a></li>
+        </ul>
+      </div>
+      <div class="btn-group btn-group-justified" role="group" aria-label="...">
+        <div class="btn-group"role="group">
+          <button type="button" class="btn btn-success"name="button">111111111</button>
+        </div>
+        <div class="btn-group"role="group">
+          <button type="button" class="btn btn-success"name="button">111111111</button>
+        </div>
+        <div class="btn-group"role="group">
+          <button type="button" class="btn btn-success"name="button">111111111</button>
+        </div>
+      </div>
+    </div>
+
+
+
+    <br>
+    <br>
+    <!-- 07按钮嵌套 -->
+    <div class="btn-group"role="group" aria-label ="...">
+      <button type="button" class="btn btn-success"name="button">1</button>
+      <button type="button" class="btn btn-success"name="button">1</button>
+      <div class="btn-group"role="group">
+        <button type="button" class ="btn btn primary dropdown-toggle" data-toggle="dropdown" aria-haspopup='true' aria-expanded="false" name="button">
+        dropdown
+        <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="#">link</a></li>
+          <li><a href="#">link</a></li>
+          <li><a href="#">link</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <br>
+    <br>
+
+    <!-- 06按钮工具栏，div外里套上多个按钮组 -->
+    <div class="btn-toolbar" role="toolbar" aria-lable="...">
+      <div class="btn-group" role="group" aria-label="...">
+        <button type="button" class="btn btn-success"name="button">left</button>
+        <button type="button" class="btn btn-warning"name="button">middle</button>
+        <button type="button" class="btn btn-danger"name="button">right</button>
+      </div>
+      <div class="btn-group" role="group" aria-label="...">
+        <button type="button" class="btn btn-success"name="button">6</button>
+        <button type="button" class="btn btn-warning"name="button">6</button>
+        <button type="button" class="btn btn-danger"name="button">4</button>
+      </div>
+      <div class="btn-group btn-group-lg" role="group" aria-label="...">
+        <button type="button" class="btn btn-success"name="button">1</button>
+        <button type="button" class="btn btn-warning"name="button">2</button>
+        <button type="button" class="btn btn-danger"name="button">3</button>
+        <button type="button" class="btn btn-success"name="button">4</button>
+        <button type="button" class="btn btn-warning"name="button">5</button>
+        <button type="button" class="btn btn-danger"name="button">6</button>
+      </div>
+
+      <div class="btn-group btn-group-sm" role="group" aria-label="...">
+        <button type="button" class="btn btn-success"name="button">1</button>
+        <button type="button" class="btn btn-warning"name="button">2</button>
+        <button type="button" class="btn btn-danger"name="button">3</button>
+        <button type="button" class="btn btn-success"name="button">4</button>
+        <button type="button" class="btn btn-warning"name="button">5</button>
+        <button type="button" class="btn btn-danger"name="button">6</button>
+      </div>
+
+      <div class="btn-group btn-group-xs" role="group" aria-label="...">
+        <button type="button" class="btn btn-success"name="button">1</button>
+        <button type="button" class="btn btn-warning"name="button">2</button>
+        <button type="button" class="btn btn-danger"name="button">3</button>
+        <button type="button" class="btn btn-success"name="button">4</button>
+        <button type="button" class="btn btn-warning"name="button">5</button>
+        <button type="button" class="btn btn-danger"name="button">6</button>
+      </div>
+
+    </div>
+
+    <br>
+    <br>
+
+    <!-- 05 按钮组 -->
+    <div class="btn-group" role="group" aria-label ="...">
+      <button type="button" class="btn btn-success"name="button">left</button>
+      <button type="button" class="btn btn-warning"name="button">middle</button>
+      <button type="button" class="btn btn-danger"name="button">right</button>
+
+    </div>
+    <br>
+    <br>
+
+    <!--04下拉菜单,此部分与视频教程的有出入，以最新手册为准-->
+    <div class="dropdown">
+      <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu1" data-toggle ="dropdown" aria-haspopup="true" aria-expanded="true">
+        Dropdown
+        <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+        <li><a href="#">Action</a></li>
+        <li><a href="#">Another Action</a></li>
+        <li role="separator"class="divider"></li>
+        <li><a href="#">Something else here</a></li>
+        <li role="separator"class="divider"></li>
+        <li><a href="#">Seperated link</a></li>
+
+        <li class="disabled"><a href="#">Seperated link</a></li>
+      </ul>
+    </div>
+    <br>
+    <br>
+
+
+    <!--03button尺寸，样式后面加上大小-->
+    <button type="button" class="btn btn-danger btn-lg"name="button">button</button>
+    <button type="button" class="btn btn-danger btn-sm"name="button">button</button>
+    <button type="button" class="btn btn-danger btn-xm"name="button">button</button>
+
+    <button type="button" class="btn btn-danger btn-lg btn-block"name="button">button</button>
+    <br>
+    <a href="#"class="btn btn-danger">link</a>
+    <input type="button" class="btn btn-success"name="name" value="input">
+
+    <button type="button" class="btn btn-danger btn-xm"name="button">
+      <span class="glyphicon glyphicon-home"></span>   button</button>
+
+    <!--02button样式，以btn加关键词来设定样式-->
+    <button type="button" class="btn btn-primary"name="button">button</button>
+    <br>
+    <br>
+    <button type="button" class="btn btn-default"name="button">button</button>
+    <button type="button" class="btn btn-success"name="button">button</button>
+    <button type="button" class="btn btn-info"name="button">button</button>
+    <button type="button" class="btn btn-warning"name="button">button</button>
+    <button type="button" class="btn btn-danger"name="button">button</button>
+    <button type="button" class="btn btn-link"name="button">
+      <a href="www.baidu.com">button</a>
+    </button>
+
+    <!--01图标-->
+    <span class="glyphicon glyphicon-envelope"></span>
+    <span class="glyphicon glyphicon-print"></span>
+
+    <!-- 要先引入jquery，不引入会导致下拉菜单无法打开 -->
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js" ></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
