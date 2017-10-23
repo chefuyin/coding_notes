@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project maizi_pyqt_test -->
+<!-- Saved: 2017-08-27, 09:47:27 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{0d40ea7f-b80b-4e3c-9966-f554c8794261}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>info.py</Filename>
+      <Linenumber>32</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{40914327-ecd9-4492-bbec-9e931f051554}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>info.py</Filename>
+      <Linenumber>40</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{e722b80b-a159-4870-832b-3f5140cf498f}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>info.py</Filename>
+      <Linenumber>48</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{5e533b62-edc1-49f5-961a-ed8a6aa6d4d6}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>info.py</Filename>
+      <Linenumber>56</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{fe2836d6-fff0-4c16-a94f-0d9ffcb7e119}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>info.py</Filename>
+      <Linenumber>69</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{409884d1-f9b5-4588-a38d-61adf9d8bf89}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>58</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ec116e9d-3fb7-4159-a2f4-26005d08e80a}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>70</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{815b4485-604b-4269-9517-faea50ce8e77}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>80</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b0eca66a-717d-409f-aa4a-16eaef30a81e}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>88</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{df9b97ee-2489-4a7d-a759-399941862d48}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>102</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{1a02fe76-9453-44bf-8db5-8c327e0ca7eb}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>112</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{bc1b254e-8a96-4536-abe5-184f1ea453be}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>121</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{fb390723-0261-48bc-bdd4-3a63bced3749}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>133</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{aa3102ad-942a-4c5c-ba43-c92fac60380d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>146</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a1356149-2f5f-4723-ae0d-eed1e88cb3b9}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>159</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{12ec23aa-f794-457d-934c-e4f99cba9c94}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>171</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{1a6687b6-552c-4c17-ac5a-7ff0929b22cf}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>182</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{724b44ee-1fbc-4c27-b992-5be2290a5b70}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>192</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{2873cd65-ab75-4079-9f64-657fec821af6}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>202</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{103f1880-6f93-4cd3-a054-ccae83c23430}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>213</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{93462f0f-eb7a-4ece-8003-5755b6db728a}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>224</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{d3a12f71-46e5-494d-93ec-f515e97d8254}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>236</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{69605ef5-7a36-44e5-8a65-5f550593fb04}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>248</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a5678532-4a60-40fa-a6c6-12908e01438b}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>261</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{89c8f3cf-9d37-48fb-94c0-7efae1d32fd0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>274</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{96e9cc60-534c-4145-bcdd-69406d15c1b1}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>285</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{c4583a68-e880-42ae-b938-922a1780b823}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>296</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{8b4794a0-ee58-4fa4-9d8d-3b33926ad08d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>376</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{5431ffb6-2aa9-40e0-bfe0-fdd51b614b88}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>385</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{8585f5b6-ef68-4828-8548-d013673ee44c}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>398</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{6c5778f5-821e-45fa-a21b-1556c03d1833}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-27, 09:34:40</Created>
+    <Resource>
+      <Filename>maizi_pyqt_test.py</Filename>
+      <Linenumber>407</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

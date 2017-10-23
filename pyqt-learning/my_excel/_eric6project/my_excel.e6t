@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project my_excel -->
+<!-- Saved: 2017-08-28, 22:46:51 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{14bb90da-1fd9-411b-a703-d4c29aeba2fa}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>37</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{00438f27-e28b-40d8-bbd9-961a8a9cb6dd}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>45</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0a25bc29-f0f7-4e11-a894-cb5c7ec82604}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>53</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{cd2515db-0a97-4e8e-b9d3-4c4c7f6161d3}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>61</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0abffd20-638d-4314-9ab0-9af9fdbc9337}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>69</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{adfa0228-fda7-4390-b2fb-402b1d3290e7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>77</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{41f65604-85fc-4e11-8036-79ea2d9e7e56}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>94</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{6e425a3e-951e-4a48-8570-dffce29a6376}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-08-28, 22:46:49</Created>
+    <Resource>
+      <Filename>my_excel.py</Filename>
+      <Linenumber>169</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

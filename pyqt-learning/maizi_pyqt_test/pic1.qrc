@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>icon/add.png</file>
+    <file>icon/close.png</file>
+    <file>icon/close_48.png</file>
+    <file>icon/Contact.png</file>
+    <file>icon/copy.png</file>
+    <file>icon/cut.png</file>
+    <file>icon/help.png</file>
+    <file>icon/import.png</file>
+    <file>icon/open.png</file>
+    <file>icon/paste.png</file>
+    <file>icon/quit.png</file>
+    <file>icon/save.png</file>
+    <file>5.jpg</file>
+    <file>2.jpg</file>
+    <file>3.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>140</y>
+      <width>601</width>
+      <height>192</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>350</y>
+      <width>601</width>
+      <height>90</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="pushButton_4">
+       <property name="text">
+        <string>录音</string>
+       </property>
+       <property name="icon">
+        <iconset resource="my_baiduyuyin_icon.qrc">
+         <normaloff>:/icon/icon/停止 (1).png</normaloff>:/icon/icon/停止 (1).png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton">
+       <property name="styleSheet">
+        <string notr="true"/>
+       </property>
+       <property name="text">
+        <string>打开文件</string>
+       </property>
+       <property name="icon">
+        <iconset resource="my_baiduyuyin_icon.qrc">
+         <normaloff>:/icon/icon/打开.png</normaloff>:/icon/icon/打开.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_2">
+       <property name="text">
+        <string>播放</string>
+       </property>
+       <property name="icon">
+        <iconset resource="my_baiduyuyin_icon.qrc">
+         <normaloff>:/icon/icon/播放.png</normaloff>:/icon/icon/播放.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_5">
+       <property name="text">
+        <string>语音转换</string>
+       </property>
+       <property name="icon">
+        <iconset resource="my_baiduyuyin_icon.qrc">
+         <normaloff>:/icon/icon/change.png</normaloff>:/icon/icon/change.png</iconset>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="my_baiduyuyin_icon.qrc"/>
+ </resources>
+ <connections/>
+</ui>

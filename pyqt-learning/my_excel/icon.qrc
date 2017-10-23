@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/if_f00d_212947.png</file>
+    <file>icons/if_f0c4_213106.png</file>
+    <file>icons/if_f0ad_213097.png</file>
+    <file>icons/if_f002_212936.png</file>
+    <file>icons/if_f044_212998.png</file>
+    <file>icons/if_files-o_1608700.png</file>
+    <file>icons/if_file-text-o_1608471.png</file>
+    <file>icons/if_f067_213031.png</file>
+    <file>icons/if_f115_213182.png</file>
+    <file>icons/if_power-off_1608429.png</file>
+    <file>icons/if_user_1608727.png</file>
+    <file>icons/if_f108_213170.png</file>
+  </qresource>
+</RCC>

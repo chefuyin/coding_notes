@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <script>
+        function showSite(str) {
+            if (str==""){
+                document.getElementById("txtHint").innerHTML="";
+                return;
+            }
+            if (window.XMLHttpRequest){
+                xmlhttp= new XMLHttpRequest();
+            }else {
+                xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            xmlhttp.onreadystatechange=function () {
+                if (xmlhttp.readyState==4 && xmlhttp.status==200){
+                    document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+                }
+            }
+            xmlhttp.open("GET","get_site_mysql.php?q="+str,true);
+            xmlhttp.send();
+        }
+
+    </script>
+</head>
+<body>
+<form>
+    <select name="users" onchange="showSite(this.value)">
+        <option value="">选择一个网站：</option>
+        <option value="1">google</option>
+        <option value="2">taobao</option>
+        <option value="3">runoob</option>
+        <option value="4">weibo</option>
+        <option value="5">facebook</option>
+    </select>
+</form>
+<br>
+<div id="txtHint"><b>网站信息显示在这里……</b></div>
+</body>
+</html>
