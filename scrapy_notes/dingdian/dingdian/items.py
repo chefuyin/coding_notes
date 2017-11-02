@@ -19,4 +19,10 @@ class DingdianItem(scrapy.Item):
     serialnumber=scrapy.Field()
     category=scrapy.Field()
     name_id=scrapy.Field()
-    
+
+class DcontentItem(scrapy.Item):
+    id_name=scrapy.Field()
+    chaptercontent=scrapy.Field()
+    num=scrapy.Field()
+    chapterurl=scrapy.Field()
+    chaptername=scrapy.Field()

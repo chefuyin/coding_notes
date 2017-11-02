@@ -64,9 +64,12 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'dingdian.pipelines.DingdianPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   # 'dingdian.pipelines.DingdianPipeline': 300,
+    'dingdian.mysqlpipelines.pipelines.DingdianPipeline':1,
+}
+#dingdian（项目目录）.mysqlpipelines（自己建立的MySQL目录）.pipelines（自己建立的pipelines文件）.DingdianPipeline（其中定义的类）
+# 后面的 1 是优先级程度（1-1000随意设置，数值越低，组件的优先级越高）
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -88,3 +91,11 @@ HTTPCACHE_EXPIRATION_SECS = 0
 HTTPCACHE_DIR = 'httpcache'
 HTTPCACHE_IGNORE_HTTP_CODES = []
 HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+MYSQL_HOSTS='127.0.0.1'
+MYSQL_USER='root'
+MYSQL_PASSWORD='alvincha'
+MYSQL_PORT='3306'
+MYSQL_DB='xiaoshuo'
+
+# USER_AGENT='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5'
