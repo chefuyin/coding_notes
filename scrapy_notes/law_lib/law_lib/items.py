@@ -16,7 +16,7 @@ class LawLibItem(scrapy.Item):
     publish_date=scrapy.Field()
     department=scrapy.Field()
     law_lib_url=scrapy.Field()
-    source_url=scrapy.Field()
+    source=scrapy.Field()
     publish_number=scrapy.Field()
     invalid_date=scrapy.Field()
     content=scrapy.Field()

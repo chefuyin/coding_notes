@@ -1,0 +1,516 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>法律法规 教育部</title>
+<meta name="description" content="提供法律法规数据库、法学论文、裁判文书、律师黄页、法治动态、司法考试资料、法律图书、法律书刊、法律书摘、著者介绍、出版社介绍等资料。">
+<meta name="keywords" content="法律，法学,律师，律师事务所，司法考试" >
+<link  href="../css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="law">
+<div id="box"> 
+<div id="contain">
+
+<div id="top" style="float:left">
+<div id="logo"><a href="http://www.law-lib.com"><img src="../images/logo/law_logo.gif" alt="法图图书馆——新法规速递" border="0"/></a></div>
+</div>
+
+
+<!--start nav-->
+
+<div id="nav" style=" float:right">
+  <div class="nav_left">
+   <div class="nav_right"> 
+  <ul>
+<li class="nav_li1">
+<a href="/" class="navindex" title="法律图书馆首页" target="_blank">网站首页</a><a href="/law/" class="navlaw" title="新法规速递" target="_blank"> 新法规速递</a>
+<a href="/lw/" class="navlw" title="论文资料库" target="_blank">论文资料库</a><a href="/sk/" class="navsk" title="司法考试" target="_blank">司法考试</a>
+<a href="/lawyer/" class="navlawyer" title="律师黄页" target="_blank">律师黄页</a><a href="/fzdt/" class="navfzdt" title="法治动态">法治动态 </a>
+<a href="/lawbook/" class="navlawbook" title="法律图书" target="_blank">法律图书</a><a href="/shopping/" class="navshopping" title="法律网上书店" target="_blank">网上书店</a><a href="/job/" class="navvip" title="法律人才" target="_blank">法律人才</a><a href="/vip/" class="navvip" title="在线数据库" target="_blank">在线数据库<img src="/images/hot.gif" class="hotx" /></a>
+<br class="clear" />
+</li>	
+<li  class="nav_li2">
+<a href="/flsz/" class="navflsz" title="法律书摘" target="_blank">法律书摘</a><a href="/cpws/" class="navcpws" title="裁判文书" target="_blank">裁判文书</a>
+<a href="/flws/" class="navflws" title="法律文书" target="_blank">法律文书</a><a href="/htfb/" class="navhtfb" title="合同范本" target="_blank">合同范本</a>
+<a href="/lawseek/" class="navlawsite" title="法律网导航" target="_blank">法律网导航</a><a href="/maillist/" class="navmaillist" title="电子杂志" target="_blank">电子杂志</a><a href="/fxj/" class="navfxj" title="法律学人" target="_blank">法律学人</a><a href="/local/" class="navzt" title="地方频道">地方频道</a><a href="/site/weixin.html" class="navbbs" title="公众微信" target="_blank">公众微信<img src="/images/wx18.jpg" class="newx" /></a><a href="http://m.law-lib.com/mobile.asp" class="navwap" title="WAP版" target="_blank">WAP版</a>
+<br class="clear" />
+</li>
+   </ul>
+   </div>
+  </div>
+</div>
+<!--end nav-->
+
+<div class="lwnav_top">
+<div class="lwnav_top1">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 728x90, law-lib白底灰框 */
+google_ad_slot = "2159938016";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="lwnav_top2"><a href="../vip/intro.asp" target="_blank"><img src="../vip/images/vip_2.gif"  width="212" height="90" border="0"/></a></div>
+</div>
+<br  class="clear"/>
+
+<br />
+<div id="sub_nav">
+<span class="sub_navleft"><a href="http://www.law-lib.com/law/">新法规速递</a></span>
+<a href="http://www.law-lib.com/law/newlaw/">新法规速递软件</a> | <a href="http://www.law-lib.com/law/lawmlnew-zy.asp">最新国家法律法规</a> |  <a href="http://www.law-lib.com/law/lawmlnew-df.asp">最新地方法规</a> | <a href="http://www.law-lib.com/law/bbdw-zy.htm">中央颁布单位</a> |  <a href="http://www.law-lib.com/law/bbdw-df.htm">地方法规颁布单位</a> | <a href="http://www.law-lib.com/fzdt/sort21.asp">法规释义</a> | <a href="http://www.law-lib.com/fzdt/sort20.asp">立法草案</a> | <a href="http://www.law-lib.com/vip/">VIP在线数据库</a></div>
+<br />
+<div id="search1">
+  <div class="sub_con">
+ <form method="POST" action="lawml.asp" target="_blank">
+<p>题目:<input type="text" name="tm1" id="right_tm1" style="width:100px;" />并且:<input type="text" name="tm2" id="right_tm2" style="width:100px;"/></p> 
+<p>单位:<input type="text" name="bbdw" id="right_bbdw" style="width:100px;" /><input type="submit" value="法律法规检索" name="BB1" id="right_BB1"/></p>
+</form>
+</div>
+</div>
+
+<div id="dryh">
+  <div class="sub_con">
+<FORM name="loginform" action="/passport/userlogin_form.asp" method="post" onSubmit="return check_data();" >
+    <p>登录名:<INPUT name="username" id="username" style="width:100px;">密码:<INPUT type=password name="passwd" id="passwd" style="width:100px;"><INPUT  type=submit value="登录"  name="submit" id="enter" style="margin-left:4px;"></p>
+</FORM>
+<p class="p_size"><input type=checkbox name=AutoLogin value="1" checked style="border:none">在此电脑保存用户名和密码&nbsp;<a href="/passport/register.asp" target="_blank">新注册</a> | <a href="/passport/user_resetpwd.asp" target="_blank">找回密码</a></p>
+</div>
+</div>
+
+
+  <div id="dzzza">
+    <p>《新法规速递》电子杂志每日发送法规全文,<a href="http://list.qq.com/cgi-bin/qf_invite?id=1f8da26f739970614b6ed3b7817b57e2e3f65720e79d3761" target="_blank">订阅</a></p>
+	<p>《法律图书馆》电子杂志每周发送目录摘要,<a href="订阅" target="_blank">订阅</a></p>
+  </div>
+
+<!-- start sub_leftcon -->
+<div class="sub_left">
+
+
+<p class="p_topnav">您现在的位置：<a href="http://www/law-lib.com">法律图书馆</a>>><a href="http://www/law-lib.com/law/">新法规速递</a>>> 教育部</p><br />
+                       	
+<p class="center">此页检索结果<b>仅显示主要的中央法规</b>，你可以点击显示：<a href="lawml-zy.asp?bbdw=%BD%CC%D3%FD%B2%BF&tm1=&tm2="><b>更多中央法规</b></a>，或者显示：<a href="lawml-df.asp?bbdw=%BD%CC%D3%FD%B2%BF&tm1=&tm2="><b>地方法规</b></a></p><br> 		   				   
+ <ul id="lawml_ul" class="law_list">
+   
+<li><span class="spanleft">· <a href="law_view.asp?id=102447" target="_blank" title="教育部关于公布2001年“红”、“黄”牌普通高等学校名单的通知 ">教育部关于公布2001年“红”、“黄”牌普通高等学校名单的通知 </a></span>
+<p>/教育部 ——(2001-5-14)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102448" target="_blank" title="科技部、教育部关于认定首批国家大学科技园的通知 ">科技部、教育部关于认定首批国家大学科技园的通知 </a></span>
+<p>/科技部、教育部——(2001-5-11)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102426" target="_blank" title="2000年度经教育部备案或批准设置的高等学校本科专业名单 ">2000年度经教育部备案或批准设置的高等学校本科专业名单 </a></span>
+<p>/教育部——(2001-5-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102427" target="_blank" title="教育部关于印发《教育部精神文明建设领导小组2001年工作安排》的通知 ">教育部关于印发《教育部精神文明建设领导小组2001年工作安排》的通知 </a></span>
+<p>/教育部——(2001-4-20)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102428" target="_blank" title="卫生部、教育部关于开展中国学生营养日宣传教育活动的通知 ">卫生部、教育部关于开展中国学生营养日宣传教育活动的通知 </a></span>
+<p>/卫生部、教育部——(2001-4-19)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73566" target="_blank" title="教育部、国家计委关于下达２００１年普通高等教育招生计划的通知">教育部、国家计委关于下达２００１年普通高等教育招生计划的通知</a></span>
+<p>/教育部  国家计委——(2001-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16467" target="_blank" title="教育部办公厅关于印发《教育部〈科技成果登记办法〉实施细则》的通知">教育部办公厅关于印发《教育部〈科技成果登记办法〉实施细则》的通知</a></span>
+<p>/教育部办公厅——(2001-4-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73557" target="_blank" title="教育部《科技成果登记办法》实施细则">教育部《科技成果登记办法》实施细则</a></span>
+<p>/教育部办公厅——(2001-4-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73544" target="_blank" title="教育部关于做好２００１年全国研究生录取工作的通知">教育部关于做好２００１年全国研究生录取工作的通知</a></span>
+<p>/教育部——(2001-4-10)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102449" target="_blank" title="教育部关于印发《普通高中“研究性学习”实施指南（试行）》的通知 ">教育部关于印发《普通高中“研究性学习”实施指南（试行）》的通知 </a></span>
+<p>/教育部——(2001-4-9)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102436" target="_blank" title="中医药局办公室、教育部办公厅关于公布第二批高等中医药院校合格临床教学基地名单的通知">中医药局办公室、教育部办公厅关于公布第二批高等中医药院校合格临床教学基地名单的通知</a></span>
+<p>/国家中医药管理局办公室、教育部办公厅——(2001-4-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16464" target="_blank" title="信息产业部、教育部、国家语委关于认真做好信息产业系统语言文字规范化工作的通知">信息产业部、教育部、国家语委关于认真做好信息产业系统语言文字规范化工作的通知</a></span>
+<p>/信息产业部 教育部 国家语委——(2001-4-2)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102417" target="_blank" title="教育部关于做好2001年普通高等学校招生工作的通知 ">教育部关于做好2001年普通高等学校招生工作的通知 </a></span>
+<p>/教育部 ——(2001-3-30)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102418" target="_blank" title="关于开展第十一次“全国助残日”活动的通知 ">关于开展第十一次“全国助残日”活动的通知 </a></span>
+<p>/国务院残疾人工作协调委员会、中央文明办、中宣部、教育部等——(2001-3-19)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102429" target="_blank" title="教育部关于加强普通高等学校大学生心理健康教育工作的意见 ">教育部关于加强普通高等学校大学生心理健康教育工作的意见 </a></span>
+<p>/教育部——(2001-3-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102419" target="_blank" title="教育部关于做好2001年中等职业学校招生工作的通知 ">教育部关于做好2001年中等职业学校招生工作的通知 </a></span>
+<p>/教育部——(2001-3-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102430" target="_blank" title="教育部关于公布《跨世纪优秀人才培养计划》2000年入选人员名单的通知">教育部关于公布《跨世纪优秀人才培养计划》2000年入选人员名单的通知</a></span>
+<p>/教育部——(2001-3-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16042" target="_blank" title="关于印发《关于加强基础研究工作的若干意见》的通知">关于印发《关于加强基础研究工作的若干意见》的通知</a></span>
+<p>/科技部 教育部 中科院、工程院、国家自然科学基金委——(2001-3-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102431" target="_blank" title="教育部关于印发《关于“十五”期间普通高等教育教材建设与改革的意见》的通知 ">教育部关于印发《关于“十五”期间普通高等教育教材建设与改革的意见》的通知 </a></span>
+<p>/教育部——(2001-3-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73378" target="_blank" title="教育部关于公布第二批国家级重点中等职业学校名单的通知">教育部关于公布第二批国家级重点中等职业学校名单的通知</a></span>
+<p>/教育部——(2001-3-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99417" target="_blank" title="教育部关于调整部分全国重点建设职业教育师资培训基地的通知">教育部关于调整部分全国重点建设职业教育师资培训基地的通知</a></span>
+<p>/教育部——(2001-3-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99418" target="_blank" title="教育部关于公布第三批全国重点建设职业教育师资培训基地名单的通知">教育部关于公布第三批全国重点建设职业教育师资培训基地名单的通知</a></span>
+<p>/教育部——(2001-3-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99442" target="_blank" title="教育部办公厅关于做好2001年初中学生毕业升学体育考试工作的通知">教育部办公厅关于做好2001年初中学生毕业升学体育考试工作的通知</a></span>
+<p>/教育部——(2001-3-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102420" target="_blank" title="教育部办公厅关于公布视频展示台产品质量补检结果的通知 ">教育部办公厅关于公布视频展示台产品质量补检结果的通知 </a></span>
+<p>/教育部办公厅 ——(2001-3-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102432" target="_blank" title="教育部办公厅关于印发《第六届国家督学会议纪要》的通知 ">教育部办公厅关于印发《第六届国家督学会议纪要》的通知 </a></span>
+<p>/教育部办公厅——(2001-3-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102433" target="_blank" title="教育部办公厅关于对湖北省阳新县潘桥乡教育组“普九”复查弄虚作假，发生死亡事故的通报 ">教育部办公厅关于对湖北省阳新县潘桥乡教育组“普九”复查弄虚作假，发生死亡事故的通报 </a></span>
+<p>/教育部办公厅——(2001-3-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73341" target="_blank" title="教育部办公厅关于加强学校传染病预防工作的通知">教育部办公厅关于加强学校传染病预防工作的通知</a></span>
+<p>/教育部办公厅——(2001-2-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99443" target="_blank" title="教育部办公厅关于积极配合和推动基础教育课程改革进一步加强和改进教师培养培训工作的几点意见">教育部办公厅关于积极配合和推动基础教育课程改革进一步加强和改进教师培养培训工作的几点</a></span>
+<p>/教育部——(2001-2-23)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102408" target="_blank" title="教育部办公厅关于印发《全国城市教育综合改革会议纪要》的通知 ">教育部办公厅关于印发《全国城市教育综合改革会议纪要》的通知 </a></span>
+<p>/教育部办公厅——(2001-2-22)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102409" target="_blank" title="中共教育部党组关于教育战线开展纪念中国共产党成立80周年活动的通知 ">中共教育部党组关于教育战线开展纪念中国共产党成立80周年活动的通知 </a></span>
+<p>/中共教育部党组——(2001-2-22)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102421" target="_blank" title="教育部办公厅关于印发《关于检查辽宁等七省（自治区）实施“中小学教师继续教育工程”情况的通报》的通知 ">教育部办公厅关于印发《关于检查辽宁等七省（自治区）实施“中小学教师继续教育工程”情况</a></span>
+<p>/教育部办公厅 ——(2001-2-22)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102422" target="_blank" title="中共教育部党组关于印发《全国教育干部培训“十五”规划》的通知 ">中共教育部党组关于印发《全国教育干部培训“十五”规划》的通知 </a></span>
+<p>/中共教育部党组 ——(2001-2-22)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73306" target="_blank" title="教育部办公厅关于做好２００１年高等教育学历证书管理工作的通知">教育部办公厅关于做好２００１年高等教育学历证书管理工作的通知</a></span>
+<p>/教育部办公厅——(2001-2-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102434" target="_blank" title="教育部办公厅关于印发《全国学校艺术教育工作经验交流会会议纪要》的通知 ">教育部办公厅关于印发《全国学校艺术教育工作经验交流会会议纪要》的通知 </a></span>
+<p>/教育部办公厅——(2001-2-15)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102410" target="_blank" title="教育部办公厅关于印发《2001年教育审计工作要点》的通知 ">教育部办公厅关于印发《2001年教育审计工作要点》的通知 </a></span>
+<p>/教育部办公厅——(2001-2-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102424" target="_blank" title="教育部关于表彰奖励2000年“两基”、“普初”工作先进县(市、区)的决定 ">教育部关于表彰奖励2000年“两基”、“普初”工作先进县(市、区)的决定 </a></span>
+<p>/教育部——(2001-2-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102437" target="_blank" title="教育部关于表彰全国高等教育自学考试工作先进集体、先进个人的决定 ">教育部关于表彰全国高等教育自学考试工作先进集体、先进个人的决定 </a></span>
+<p>/教育部——(2001-2-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=15320" target="_blank" title="国民体质监测工作规定">国民体质监测工作规定</a></span>
+<p>/国家体育总局 全国总工会 国家计委、教育部、科技部、——(2001-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16469" target="_blank" title="关于大学生公寓建设标准问题的若干意见">关于大学生公寓建设标准问题的若干意见</a></span>
+<p>/教育部——(2001-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73289" target="_blank" title="教育部、国家计委、财政部关于２００１年高等学校招生收费工作有关问题的通知">教育部、国家计委、财政部关于２００１年高等学校招生收费工作有关问题的通知</a></span>
+<p>/教育部  国家计委  财政部——(2001-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73290" target="_blank" title="教育部办公厅关于做好２００１年全国普通高等学校招生网上录取工作的通知">教育部办公厅关于做好２００１年全国普通高等学校招生网上录取工作的通知</a></span>
+<p>/教育部办公厅——(2001-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99444" target="_blank" title="国家经贸委、教育部、卫生部关于印发《关于推广学生营养餐的指导意见》的通知">国家经贸委、教育部、卫生部关于印发《关于推广学生营养餐的指导意见》的通知</a></span>
+<p>/国家经贸委、教育部、卫生部——(2001-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99445" target="_blank" title="教育部关于公布第四批基本普及初等义务教育县（市）名单的决定">教育部关于公布第四批基本普及初等义务教育县（市）名单的决定</a></span>
+<p>/国家经贸委、教育部、卫生部——(2001-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102425" target="_blank" title="教育部关于公布第七批基本普及九年义务教育和基本扫除青壮年文盲县（市、区）名单的决定 ">教育部关于公布第七批基本普及九年义务教育和基本扫除青壮年文盲县（市、区）名单的决定 </a></span>
+<p>/教育部——(2001-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102412" target="_blank" title="教育部关于向“焦裕禄式的教育局长”胡昭程同志学习的决定 ">教育部关于向“焦裕禄式的教育局长”胡昭程同志学习的决定 </a></span>
+<p>/教育部 ——(2001-2-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16471" target="_blank" title="高等教育学历证书电子注册管理暂行规定">高等教育学历证书电子注册管理暂行规定</a></span>
+<p>/教育部——(2001-2-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73263" target="_blank" title="教育部关于２００１年普通高等学校招收保送生工作的通知">教育部关于２００１年普通高等学校招收保送生工作的通知</a></span>
+<p>/教育部——(2001-2-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73264" target="_blank" title="教育部关于重申保证高等教育质量，加强学历文凭、学位证书管理的通知">教育部关于重申保证高等教育质量，加强学历文凭、学位证书管理的通知</a></span>
+<p>/教育部——(2001-2-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102414" target="_blank" title="教育部关于印发《高等教育学历证书电子注册管理暂行规定》的通知">教育部关于印发《高等教育学历证书电子注册管理暂行规定》的通知</a></span>
+<p>/教育部——(2001-2-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102415" target="_blank" title="中共教育部党组、共青团中央关于在各级各类学校广泛开展“校园拒绝邪教”活动的通知 ">中共教育部党组、共青团中央关于在各级各类学校广泛开展“校园拒绝邪教”活动的通知 </a></span>
+<p>/中共教育部党组、共青团中央——(2001-2-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16897" target="_blank" title="关于进一步推进国家助学贷款业务发展的通知">关于进一步推进国家助学贷款业务发展的通知</a></span>
+<p>/中国人民银行 财政部 教育部、国家税务总局——(2001-1-27)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102416" target="_blank" title="教育部办公厅关于2001年开展中小学“校园安全”主题教育活动的通知 ">教育部办公厅关于2001年开展中小学“校园安全”主题教育活动的通知 </a></span>
+<p>/教育部办公厅——(2001-1-22)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102244" target="_blank" title="教育部关于全国使用《全日制普通高级中学课程计划(试验修订稿)》和各学科教学大纲（试验修订版）的通知 ">教育部关于全国使用《全日制普通高级中学课程计划(试验修订稿)》和各学科教学大纲（试验</a></span>
+<p>/教育部——(2001-1-20)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16911" target="_blank" title="教育部关于积极推进小学开设英语课程的指导意见">教育部关于积极推进小学开设英语课程的指导意见</a></span>
+<p>/教育部——(2001-1-18)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99446" target="_blank" title="教育部关于印发《中等职业教育国家规划教材申报、立项及管理意见》的通知">教育部关于印发《中等职业教育国家规划教材申报、立项及管理意见》的通知</a></span>
+<p>/教育部——(2001-1-18)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73201" target="_blank" title="教育部关于做好２００１年全国普通高等学校毕业生就业工作的通知">教育部关于做好２００１年全国普通高等学校毕业生就业工作的通知</a></span>
+<p>/教育部——(2001-1-15)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=73188" target="_blank" title="教育部关于学习贯彻《中共中央办公厅、国务院办公厅关于适应新形势进一步加强和改进中小学德育工作的意见》的通知">教育部关于学习贯彻《中共中央办公厅、国务院办公厅关于适应新形势进一步加强和改进中小学</a></span>
+<p>/教育部——(2001-1-11)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=102245" target="_blank" title="关于开展第二次全国爱耳日宣传教育活动的通知 ">关于开展第二次全国爱耳日宣传教育活动的通知 </a></span>
+<p>/中国残联、卫生部、教育部、民政部等——(2001-1-11)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=16472" target="_blank" title="关于违反研究生入学考试规定行为的暂行处理办法">关于违反研究生入学考试规定行为的暂行处理办法</a></span>
+<p>/教育部——(2001-1-9)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=98192" target="_blank" title="关于印发中国预防与控制艾滋病中长期规划（1998－2010年）实施指导意见的通知">关于印发中国预防与控制艾滋病中长期规划（1998－2010年）实施指导意见的通知</a></span>
+<p>/卫生部 国家计委 教育部等——(2001-1-5)</p></li>
+
+   </ul>
+<br />
+
+
+<p>
+
+<!-- ad
+<script type="text/javascript">
+/*728*15链接，创建于2012-11-30*/
+var cpro_id = "u1144880";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+
+</p>
+
+
+ <p class="p_fenye">
+ 　　　当前为第31页 <a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=30&tm1=&tm2=' > 前一页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=1&tm1=&tm2=' >第1页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=2&tm1=&tm2=' >第2页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=3&tm1=&tm2=' >第3页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=4&tm1=&tm2=' >第4页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=5&tm1=&tm2=' >第5页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=6&tm1=&tm2=' >第6页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=7&tm1=&tm2=' >第7页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=8&tm1=&tm2=' >第8页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=9&tm1=&tm2=' >第9页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=10&tm1=&tm2=' >第10页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=11&tm1=&tm2=' >第11页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=12&tm1=&tm2=' >第12页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=13&tm1=&tm2=' >第13页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=14&tm1=&tm2=' >第14页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=15&tm1=&tm2=' >第15页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=16&tm1=&tm2=' >第16页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=17&tm1=&tm2=' >第17页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=18&tm1=&tm2=' >第18页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=19&tm1=&tm2=' >第19页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=20&tm1=&tm2=' >第20页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=21&tm1=&tm2=' >第21页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=22&tm1=&tm2=' >第22页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=23&tm1=&tm2=' >第23页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=24&tm1=&tm2=' >第24页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=25&tm1=&tm2=' >第25页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=26&tm1=&tm2=' >第26页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=27&tm1=&tm2=' >第27页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=28&tm1=&tm2=' >第28页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=29&tm1=&tm2=' >第29页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=30&tm1=&tm2=' >第30页</a>&nbsp;<span>第31页</span>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=32&tm1=&tm2=' >第32页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=33&tm1=&tm2=' >第33页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=34&tm1=&tm2=' >第34页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=35&tm1=&tm2=' >第35页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=36&tm1=&tm2=' >第36页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=37&tm1=&tm2=' >第37页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=38&tm1=&tm2=' >第38页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=39&tm1=&tm2=' >第39页</a>&nbsp;<a href='lawml.asp?bbdw=%BD%CC%D3%FD%B2%BF&pages=32&tm1=&tm2=' >下一页</a>&nbsp;
+</p>
+
+<br />
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 728x90, law-lib白底灰框 */
+google_ad_slot = "2159938016";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<br />
+
+</div>
+<!--end sub_leftcon-->
+
+
+<!--start sub_right-->
+<div  class="sub_right">
+<div class="tb_lw1">
+  <div align="center">
+<!-- ad
+<script type="text/javascript">/*200*200，创建于2012-8-21*/ var cpro_id = 'u1030925';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+  </div>
+</div>
+
+<div class="depart">
+
+<!-- search
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://s.law-lib.com/" target="_blank" title="《法律图书馆》网全文检索">《法律图书馆》网全文检索</a></div>
+    <div class="sub_con1"> 
+<script type="text/javascript">document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E%3Cscript charset="utf-8" src="http://rp.baidu.com/rp3w/3w.js?sid=2404560320655800373') + '&t=' + (Math.ceil(new Date()/3600000)) + unescape('"%3E%3C/script%3E'));</script>
+</div>
+-->
+
+
+<div class="h1_title1 center" style="color:#464445; font-weight:bold; font-size:14px;">《法律图书馆》公众微信</div>
+<div class="sub_con1"> 
+<div class="sub_img">
+<img src="http://www.law-lib.com/images/wx_258.JPG" width="160" height="160" alt="《法律图书馆》公众微信号" /></div>
+<br>
+关注《法律图书馆》网站公众微信号，即可每日获取最新的法规法规，法治动态等法律专业信息。
+<br>
+关注方法：扫描二维码，或搜索微信号：<b>law-lib</b>
+<br>
+</div>
+
+
+    <div class="h1_title1 center" style="margin-top:13px;"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="新法规速递">购安卓版软件，赠平板电脑</a></div>
+    <div class="sub_con1"> 
+    <div class="sub_img">
+    <a href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="安卓版软件"><img src="http://www.law-lib.com/law/newlaw/images/ipad_2.jpg" width="118" height="135" alt="安卓版软件版" /></a>
+    </div>&nbsp;&nbsp;&nbsp;
+      凡购《新法规速递》安卓手机版服务三年，赠预装法规软件的最新款七寸平板电脑一台。购一年服务者，另有Ｕ盘赠送。<br />
+      软件可以在线全文检索法规５０万件，离线查看本地法规３万件，还可以实时下载新的法规到本地。<br />
+      软件有免费版可<a style="color:red;" href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="下载试用"><b class="disnone">新法规速递</b>下载试用。</a></div>
+
+    <div class="center qrt1 mar13"><a style="color:#464445; font-weight:bold; padding-top:3px;" href="http://www.law-lib.com/law/newlaw" target="_blank">《新法规速递》电脑版<br />
+      &nbsp;全新推出绿色版，免安装</a></div>
+    <div class="sub_con1"> 
+    <div class="sub_img">
+    <a href="http://www.law-lib.com/law/newlaw" target="_blank" title="新法规速递"><img src="http://www.law-lib.com/law/newlaw/images/law_01.jpg" width="148" height="120" alt="新法规速递" /></a></div> &nbsp;软件收录1949-2017法律法规、司法解释、规范性文件及地方性法规约13万件。“云检索”功能，可以在线全文检索、浏览５０万件法规，可下载收藏浏览过的法规。2015年推出免安装绿色版<br />
+      软件可以免费<a style="color:red;" href="http://www.law-lib.com/law/newlaw" target="_blank"><b class="disnone">新法规速递</b>下载试用</a>，但未注册用户不提供更新和在线检索服务。</div>
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/vip/" target="_blank">《法律图书馆》在线数据库</a></div>
+    <div class="sub_con1">
+    <div class="sub_img"> <a href="http://www.law-lib.com/vip/" target="_blank"><img src="http://www.law-lib.com/law/newlaw/images/law_03.jpg" alt="新法规速递" width="148" height="120" border="0" /></a></div> &nbsp;&nbsp;&nbsp;收录1949年至今法律、行政法规、部门规章、司法解释、规范性文件、事务性文件；地方性法规、地方政府规章、地方政府规范性文件；国际条约、英文法律、英文行政法规、英文地方性法规；各地裁判文书、仲裁裁决、合同范本、法律文书、立法草案、法规释义、参考文件等信息；数据库记录近60万件，每天增加法规数百件。<br />
+      提供数十种组合检索方式，并有自定义首页，收藏法规，保存浏览检索记录等多种个性化功能。</div>
+
+
+
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/law/newlaw/flashdisk.asp" target="_blank" title="《新法规速递》U盘版">《新法规速递》U盘版</a></div>
+    <div class="sub_con1"> 使用4G的U盘，方便您将法规数据库随身携带，在不同的电脑上方便使用。同时也可以当作普通U盘使用，复制拷贝文件。软件功能和<a style="color:red" href="http://www.law-lib.com/law/newlaw/" target="_blank">电脑版</a>完全相同。</div>
+	</div>
+
+<div class="tb_lw">
+
+</div>
+
+
+<div class="depart">
+   <h1 class="h1_title center">中央颁布单位</h1>
+  <div class="sub_con">
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=全国人民代表大会" target="_blank">全国人民代表大会</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国务院" target="_blank">国务院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=最高人民法院" target="_blank">最高人民法院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=最高人民检察院" target="_blank">最高人民检察院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家发展和改革委员会" target="_blank">国家发展和改革委员会</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=商务部" target="_blank">商务部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=建设部" target="_blank">建设部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=公安部" target="_blank">公安部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=司法部" target="_blank">司法部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国土资源部" target="_blank">国土资源部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=财政部" target="_blank">财政部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=卫生部" target="_blank">卫生部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=教育部" target="_blank">教育部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=人事部" target="_blank">人事部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=劳动和社会保障部" target="_blank">劳动和社会保障部</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=外交部">外交部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=司法部">司法部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=监察部">监察部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=民政部">民政部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=科技部">科技部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=铁道部">铁道部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=水利部">水利部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=农业部">农业部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=文化部">文化部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=信息产业部">信息产业部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=中国人民银行" target="_blank">中国人民银行</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家税务总局" target="_blank">国家税务总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家工商行政管理总局" target="_blank">国家工商总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家质量监督检验检疫总局" target="_blank">国家质检总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=海关总署" target="_blank">海关总署</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家外汇管理局" target="_blank">国家外汇管理局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家食品药品监督管理局" target="_blank">食品药品监督管理局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=中国证券监督管理委员会" target="_blank">中国证监会</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家税务总局">国家税务总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家工商行政管理总局">国家工商行政管理总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家质量监督检验检疫总局">国家质量监督检验检疫总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家环境保护总局">国家环境保护总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国民用航空总局">中国民用航空总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家广播电影电视总局">国家广播电影电视总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家外汇管理局">国家外汇管理局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家食品药品监督管理局">国家食品药品监督管理局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家统计局">国家统计局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家林业局">国家林业局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国国家知识产权局">国家知识产权局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家旅游局">国家旅游局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家邮政局">国家邮政局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家安全生产监督管理局">国家安全生产监督管理局</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=海关总署">海关总署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=审计署">审计署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=新闻出版总署">新闻出版总署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家版权局">（国家版权局）</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国人民银行">中国人民银行</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国保险监督管理委员会">中国保险监督管理委员会</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国银行业监督管理委员会">中国银行业监督管理委员会</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国证券监督管理委员会">中国证券监督管理委员会</a> 
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家电力监管委员会">国家电力监管委员会</a> 
+              <p class="pmore"><a href="bbdw-zy.htm">更多中央颁布单位&gt;&gt;</a></p>
+   </div>
+</div>
+
+  
+ <br />
+ 
+
+<div class="depart" id="law_difang">
+  <h1 class="h1_title center">地方法规颁布单位</h1>
+  <div class="sub_con">
+              <p><a href="lawml.asp?bbdw=北京">北京市</a> <a href="lawml.asp?bbdw=天津">天津市</a> <a href="lawml.asp?bbdw=河北">河北省</a></p>
+			  <p><a href="lawml.asp?bbdw=山西">山西省</a> <a href="lawml.asp?bbdw=内蒙古">内蒙古自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=辽宁">辽宁省</a> <a href="lawml.asp?bbdw=吉林省">吉林省</a> <a href="lawml.asp?bbdw=黑龙江">黑龙江省</a></p>
+			  <p><a href="lawml.asp?bbdw=上海">上海市</a> <a href="lawml.asp?bbdw=江苏">江苏省</a> <a href="lawml.asp?bbdw=浙江">浙江省</a></p>
+			  <p><a href="lawml.asp?bbdw=安徽">安徽省</a> <a href="lawml.asp?bbdw=福建">福建省</a> <a href="lawml.asp?bbdw=江西">江西省</a></p>
+			  <p><a href="lawml.asp?bbdw=山东">山东省</a> <a href="lawml.asp?bbdw=河南">河南省</a> <a href="lawml.asp?bbdw=湖北">湖北省</a></p>
+			  <p><a href="lawml.asp?bbdw=湖南">湖南省</a> <a href="lawml.asp?bbdw=广西壮族">广西壮族自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=广东">广东省</a> <a href="lawml.asp?bbdw=海南">海南省</a> <a href="lawml.asp?bbdw=重庆">重庆市</a></p>
+			  <p><a href="lawml.asp?bbdw=四川">四川省</a> <a href="lawml.asp?bbdw=贵州">贵州省</a> <a href="lawml.asp?bbdw=云南">云南省</a></p>
+			  <p><a href="lawml.asp?bbdw=西藏">西藏自治区</a> <a href="lawml.asp?bbdw=陕西">陕西省</a> <a href="lawml.asp?bbdw=甘肃">甘肃省</a></p>
+			  <p><a href="lawml.asp?bbdw=青海">青海省</a> <a href="lawml.asp?bbdw=宁夏回族">宁夏回族自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=新疆维吾尔">新疆维吾尔自治区</a></p>
+			  <p class="pmore"><a href="http://www.law-lib.com/law/bbdw-df.htm">更多省市自治区&gt;&gt;</a></p>
+
+   </div>
+</div>
+<div style="margin:10px 0px 0px 5px;">
+
+<script type="text/javascript">/*200*200，创建于2012-8-21*/ var cpro_id = 'u1030925';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+
+</div>
+<div style="text-align:center">
+<br />
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 160x600, law-lib白底灰框 */
+google_ad_slot = "4452393317";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br />
+
+</div>
+</div>
+</div>
+<!--end sub_right-->
+
+<!--start footer_nav-->
+<div id="footer_nav">
+
+<br /><br />
+<p><a href="/">主页</a> | <a href="/site/about.htm">关于我们</a> | <a href="/site/sitemap.htm">本站地图</a> | <a href="/site/ads.htm">广告服务</a> | <a href="/site/agent.htm">诚招代理</a> | <a href="/products/">产品服务</a> | <a href="/vip/">在线数据库</a> | <a href="/site/contacts.htm">联系方式</a></p>
+<p>Copyright &copy; 1999-2017 杭州法图网络科技有限公司</p>
+
+
+
+</div>
+
+<br /><br /><br /><br />
+<!--end footer_nav-->
+
+
+
+</div><!--end contain-->
+</div><!--end box-->
+</body>
+</html>

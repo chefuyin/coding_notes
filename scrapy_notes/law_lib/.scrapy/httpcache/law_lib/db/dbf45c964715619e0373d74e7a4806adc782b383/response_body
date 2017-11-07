@@ -1,0 +1,516 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>法律法规 最高人民法院</title>
+<meta name="description" content="提供法律法规数据库、法学论文、裁判文书、律师黄页、法治动态、司法考试资料、法律图书、法律书刊、法律书摘、著者介绍、出版社介绍等资料。">
+<meta name="keywords" content="法律，法学,律师，律师事务所，司法考试" >
+<link  href="../css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="law">
+<div id="box"> 
+<div id="contain">
+
+<div id="top" style="float:left">
+<div id="logo"><a href="http://www.law-lib.com"><img src="../images/logo/law_logo.gif" alt="法图图书馆——新法规速递" border="0"/></a></div>
+</div>
+
+
+<!--start nav-->
+
+<div id="nav" style=" float:right">
+  <div class="nav_left">
+   <div class="nav_right"> 
+  <ul>
+<li class="nav_li1">
+<a href="/" class="navindex" title="法律图书馆首页" target="_blank">网站首页</a><a href="/law/" class="navlaw" title="新法规速递" target="_blank"> 新法规速递</a>
+<a href="/lw/" class="navlw" title="论文资料库" target="_blank">论文资料库</a><a href="/sk/" class="navsk" title="司法考试" target="_blank">司法考试</a>
+<a href="/lawyer/" class="navlawyer" title="律师黄页" target="_blank">律师黄页</a><a href="/fzdt/" class="navfzdt" title="法治动态">法治动态 </a>
+<a href="/lawbook/" class="navlawbook" title="法律图书" target="_blank">法律图书</a><a href="/shopping/" class="navshopping" title="法律网上书店" target="_blank">网上书店</a><a href="/job/" class="navvip" title="法律人才" target="_blank">法律人才</a><a href="/vip/" class="navvip" title="在线数据库" target="_blank">在线数据库<img src="/images/hot.gif" class="hotx" /></a>
+<br class="clear" />
+</li>	
+<li  class="nav_li2">
+<a href="/flsz/" class="navflsz" title="法律书摘" target="_blank">法律书摘</a><a href="/cpws/" class="navcpws" title="裁判文书" target="_blank">裁判文书</a>
+<a href="/flws/" class="navflws" title="法律文书" target="_blank">法律文书</a><a href="/htfb/" class="navhtfb" title="合同范本" target="_blank">合同范本</a>
+<a href="/lawseek/" class="navlawsite" title="法律网导航" target="_blank">法律网导航</a><a href="/maillist/" class="navmaillist" title="电子杂志" target="_blank">电子杂志</a><a href="/fxj/" class="navfxj" title="法律学人" target="_blank">法律学人</a><a href="/local/" class="navzt" title="地方频道">地方频道</a><a href="/site/weixin.html" class="navbbs" title="公众微信" target="_blank">公众微信<img src="/images/wx18.jpg" class="newx" /></a><a href="http://m.law-lib.com/mobile.asp" class="navwap" title="WAP版" target="_blank">WAP版</a>
+<br class="clear" />
+</li>
+   </ul>
+   </div>
+  </div>
+</div>
+<!--end nav-->
+
+<div class="lwnav_top">
+<div class="lwnav_top1">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 728x90, law-lib白底灰框 */
+google_ad_slot = "2159938016";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="lwnav_top2"><a href="../vip/intro.asp" target="_blank"><img src="../vip/images/vip_2.gif"  width="212" height="90" border="0"/></a></div>
+</div>
+<br  class="clear"/>
+
+<br />
+<div id="sub_nav">
+<span class="sub_navleft"><a href="http://www.law-lib.com/law/">新法规速递</a></span>
+<a href="http://www.law-lib.com/law/newlaw/">新法规速递软件</a> | <a href="http://www.law-lib.com/law/lawmlnew-zy.asp">最新国家法律法规</a> |  <a href="http://www.law-lib.com/law/lawmlnew-df.asp">最新地方法规</a> | <a href="http://www.law-lib.com/law/bbdw-zy.htm">中央颁布单位</a> |  <a href="http://www.law-lib.com/law/bbdw-df.htm">地方法规颁布单位</a> | <a href="http://www.law-lib.com/fzdt/sort21.asp">法规释义</a> | <a href="http://www.law-lib.com/fzdt/sort20.asp">立法草案</a> | <a href="http://www.law-lib.com/vip/">VIP在线数据库</a></div>
+<br />
+<div id="search1">
+  <div class="sub_con">
+ <form method="POST" action="lawml.asp" target="_blank">
+<p>题目:<input type="text" name="tm1" id="right_tm1" style="width:100px;" />并且:<input type="text" name="tm2" id="right_tm2" style="width:100px;"/></p> 
+<p>单位:<input type="text" name="bbdw" id="right_bbdw" style="width:100px;" /><input type="submit" value="法律法规检索" name="BB1" id="right_BB1"/></p>
+</form>
+</div>
+</div>
+
+<div id="dryh">
+  <div class="sub_con">
+<FORM name="loginform" action="/passport/userlogin_form.asp" method="post" onSubmit="return check_data();" >
+    <p>登录名:<INPUT name="username" id="username" style="width:100px;">密码:<INPUT type=password name="passwd" id="passwd" style="width:100px;"><INPUT  type=submit value="登录"  name="submit" id="enter" style="margin-left:4px;"></p>
+</FORM>
+<p class="p_size"><input type=checkbox name=AutoLogin value="1" checked style="border:none">在此电脑保存用户名和密码&nbsp;<a href="/passport/register.asp" target="_blank">新注册</a> | <a href="/passport/user_resetpwd.asp" target="_blank">找回密码</a></p>
+</div>
+</div>
+
+
+  <div id="dzzza">
+    <p>《新法规速递》电子杂志每日发送法规全文,<a href="http://list.qq.com/cgi-bin/qf_invite?id=1f8da26f739970614b6ed3b7817b57e2e3f65720e79d3761" target="_blank">订阅</a></p>
+	<p>《法律图书馆》电子杂志每周发送目录摘要,<a href="订阅" target="_blank">订阅</a></p>
+  </div>
+
+<!-- start sub_leftcon -->
+<div class="sub_left">
+
+
+<p class="p_topnav">您现在的位置：<a href="http://www/law-lib.com">法律图书馆</a>>><a href="http://www/law-lib.com/law/">新法规速递</a>>> 最高人民法院</p><br />
+                       	
+<p class="center">此页检索结果<b>仅显示主要的中央法规</b>，你可以点击显示：<a href="lawml-zy.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&tm1=&tm2="><b>更多中央法规</b></a>，或者显示：<a href="lawml-df.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&tm1=&tm2="><b>地方法规</b></a></p><br> 		   				   
+ <ul id="lawml_ul" class="law_list">
+   
+<li><span class="spanleft">· <a href="law_view.asp?id=8862" target="_blank" title="最高人民法院关于已公私合营清产核资折价入股的房屋属国家所有的复函">最高人民法院关于已公私合营清产核资折价入股的房屋属国家所有的复函</a></span>
+<p>/最高人民法院——(1992-7-31)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8858" target="_blank" title="最高人民法院经济审判庭关于生效判决的连带责任人代偿债务后应以何种诉讼程序向债务人追偿问题的复函">最高人民法院经济审判庭关于生效判决的连带责任人代偿债务后应以何种诉讼程序向债务人追偿</a></span>
+<p>/最高人民法院经济审判庭——(1992-7-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8847" target="_blank" title="最高人民法院关于货物运输合同连带责任问题的复函">最高人民法院关于货物运输合同连带责任问题的复函</a></span>
+<p>/最高人民法院——(1992-7-25)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8848" target="_blank" title="最高人民法院关于货物运输合同连带责任问题给甘肃省高级人民法院的复函">最高人民法院关于货物运输合同连带责任问题给甘肃省高级人民法院的复函</a></span>
+<p>/最高人民法院——(1992-7-25)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8849" target="_blank" title="最高人民法院关于九江市庐山区煤炭供应站与常德市联运公司购销合同纠纷一案管辖问题的复函">最高人民法院关于九江市庐山区煤炭供应站与常德市联运公司购销合同纠纷一案管辖问题的复函</a></span>
+<p>/最高人民法院——(1992-7-25)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8819" target="_blank" title="最高人民法院关于商都县毛毯厂与呼和浩特联合毛纺织科研实验厂加工承揽毛毯合同纠纷一案的复函">最高人民法院关于商都县毛毯厂与呼和浩特联合毛纺织科研实验厂加工承揽毛毯合同纠纷一案的</a></span>
+<p>/最高人民法院——(1992-7-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8813" target="_blank" title="最高人民法院办公厅关于“送达公约”适用于香港的通知">最高人民法院办公厅关于“送达公约”适用于香港的通知</a></span>
+<p>/最高人民法院办公厅——(1992-7-15)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8811" target="_blank" title="最高人民法院印发《关于适用〈中华人民共和国民事诉讼法〉若干问题的意见》的通知">最高人民法院印发《关于适用〈中华人民共和国民事诉讼法〉若干问题的意见》的通知</a></span>
+<p>/最高人民法院——(1992-7-14)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=54915" target="_blank" title="最高人民法院关于适用《中华人民共和国民事诉讼法》若干问题的意见">最高人民法院关于适用《中华人民共和国民事诉讼法》若干问题的意见</a></span>
+<p>/最高人民法院——(1992-7-14)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8806" target="_blank" title="最高人民法院关于支付令生效后发现确有错误应当如何处理的批复">最高人民法院关于支付令生效后发现确有错误应当如何处理的批复</a></span>
+<p>/最高人民法院——(1992-7-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8807" target="_blank" title="最高人民法院关于支付令生效后发现确有错误应当如何处理问题的复函">最高人民法院关于支付令生效后发现确有错误应当如何处理问题的复函</a></span>
+<p>/最高人民法院——(1992-7-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8808" target="_blank" title="最高人民法院关于周祖德、周祖明等诉周祖华、周祖荣等房屋纠纷一案的复函">最高人民法院关于周祖德、周祖明等诉周祖华、周祖荣等房屋纠纷一案的复函</a></span>
+<p>/最高人民法院——(1992-7-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8792" target="_blank" title="最高人民法院关于范怀与郭明华房屋买卖是否有效问题的复函">最高人民法院关于范怀与郭明华房屋买卖是否有效问题的复函</a></span>
+<p>/最高人民法院——(1992-7-9)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8793" target="_blank" title="最高人民法院关于同一土地登记在两个土地证上应如何确认权属的复函">最高人民法院关于同一土地登记在两个土地证上应如何确认权属的复函</a></span>
+<p>/最高人民法院——(1992-7-9)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8794" target="_blank" title="最高人民法院关于翟金海与翟光增宅基纠纷案的复函">最高人民法院关于翟金海与翟光增宅基纠纷案的复函</a></span>
+<p>/最高人民法院——(1992-7-9)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8778" target="_blank" title="最高人民法院关于任惠温与任乡锁地基纠纷一案如何处理的复函">最高人民法院关于任惠温与任乡锁地基纠纷一案如何处理的复函</a></span>
+<p>/最高人民法院——(1992-7-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8744" target="_blank" title="最高人民法院、国家教委、人事部关于加强法院系统成人高等教育《专业证书》教学班管理的通知">最高人民法院、国家教委、人事部关于加强法院系统成人高等教育《专业证书》教学班管理的通</a></span>
+<p>/最高人民法院等——(1992-6-24)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=304041" target="_blank" title="最高人民法院关于试行法院诉讼文书样式的通知">最高人民法院关于试行法院诉讼文书样式的通知</a></span>
+<p>/最高人民法院——(1992-6-20)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8727" target="_blank" title="最高人民法院研究室关于盗窃黄金矿石和汞膏金应如何计价问题的电话答复">最高人民法院研究室关于盗窃黄金矿石和汞膏金应如何计价问题的电话答复</a></span>
+<p>/最高人民法院研究室——(1992-6-19)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8703" target="_blank" title="最高人民法院、外交部、司法部关于我国法院接受外国法院通过外交途径委托送达法律文书和调查取证收费的通知">最高人民法院、外交部、司法部关于我国法院接受外国法院通过外交途径委托送达法律文书和调</a></span>
+<p>/最高人民法院  外交部  司法部——(1992-6-11)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8687" target="_blank" title="最高人民法院关于李丽云与丁克义离婚一案可否进行再审的复函">最高人民法院关于李丽云与丁克义离婚一案可否进行再审的复函</a></span>
+<p>/最高人民法院——(1992-6-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8688" target="_blank" title="最高人民法院关于周慧儒等诉遵义市万里路蔬菜店房屋租赁纠纷一案的复函">最高人民法院关于周慧儒等诉遵义市万里路蔬菜店房屋租赁纠纷一案的复函</a></span>
+<p>/最高人民法院——(1992-6-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8685" target="_blank" title="最高人民法院研究室关于对刑法、全国人大常委会的决定和司法解释中有关规定应如何理解问题的电话答复">最高人民法院研究室关于对刑法、全国人大常委会的决定和司法解释中有关规定应如何理解问题</a></span>
+<p>/最高人民法院研究室——(1992-6-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8681" target="_blank" title="最高人民法院关于谢元福、王琪与黄长明房屋典当纠纷一案适用法律政策问题的复函">最高人民法院关于谢元福、王琪与黄长明房屋典当纠纷一案适用法律政策问题的复函</a></span>
+<p>/最高人民法院——(1992-6-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8671" target="_blank" title="关于中国银行与票据纠纷上诉案和中信实业银行上海市分行与浙江工艺毛绒厂追索票据纠纷上诉案处理意见的复函">关于中国银行与票据纠纷上诉案和中信实业银行上海市分行与浙江工艺毛绒厂追索票据纠纷上诉</a></span>
+<p>/最高人民法院——(1992-6-2)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8654" target="_blank" title="最高人民法院关于审理淫秽物品刑事案件中适用法律的两个问题的批复">最高人民法院关于审理淫秽物品刑事案件中适用法律的两个问题的批复</a></span>
+<p>/最高人民法院——(1992-5-27)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=304042" target="_blank" title="最高人民法院关于武汉市国营生物发酵设备厂与河北省冀南制药厂加工承揽合同纠纷一案指定管辖的通知">最高人民法院关于武汉市国营生物发酵设备厂与河北省冀南制药厂加工承揽合同纠纷一案指定管</a></span>
+<p>/最高人民法院——(1992-5-22)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8637" target="_blank" title="最高人民法院研究室关于利用职务上的便利条件窃取技术资料转让获利是否构成犯罪问题的电话答复">最高人民法院研究室关于利用职务上的便利条件窃取技术资料转让获利是否构成犯罪问题的电话</a></span>
+<p>/最高人民法院研究室——(1992-5-19)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8634" target="_blank" title="最高人民法院关于已满十四岁不满十六岁的人犯走私、贩卖、运输、制造毒品罪应当如何适用法律问题的批复">最高人民法院关于已满十四岁不满十六岁的人犯走私、贩卖、运输、制造毒品罪应当如何适用法</a></span>
+<p>/最高人民法院——(1992-5-18)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8635" target="_blank" title="最高人民法院关于已满十四岁不满十六岁的人犯走私贩卖运输制造毒品罪应当如何适用法律问题的批复">最高人民法院关于已满十四岁不满十六岁的人犯走私贩卖运输制造毒品罪应当如何适用法律问题</a></span>
+<p>/最高人民法院——(1992-5-18)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8628" target="_blank" title="最高人民法院关于中级人民法院判处死刑被告人不上诉高级人民法院复核同意报请最高人民法院核准的条件是否制作裁定书问题的批复">最高人民法院关于中级人民法院判处死刑被告人不上诉高级人民法院复核同意报请最高人民法院</a></span>
+<p>/最高人民法院——(1992-5-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8629" target="_blank" title="最高人民法院研究室关于假释缓刑罪犯在假释缓刑考验期内有违法行为尚未构成犯罪是否能送劳动教养问题的复函">最高人民法院研究室关于假释缓刑罪犯在假释缓刑考验期内有违法行为尚未构成犯罪是否能送劳</a></span>
+<p>/最高人民法院研究室——(1992-5-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8630" target="_blank" title="最高人民法院印发《关于审理涉外海上人身伤亡案件损害赔偿的具体规定（试行）》的通知">最高人民法院印发《关于审理涉外海上人身伤亡案件损害赔偿的具体规定（试行）》的通知</a></span>
+<p>/最高人民法院——(1992-5-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8618" target="_blank" title="最高人民法院经济审判庭关于购销羊绒合同中出现两个质量标准如何认定问题的复函">最高人民法院经济审判庭关于购销羊绒合同中出现两个质量标准如何认定问题的复函</a></span>
+<p>/最高人民法院经济审判庭——(1992-5-14)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8619" target="_blank" title="最高人民法院经济审判庭关于榆林市可可盖供销社与怀来县物资局购销羊绒合同纠纷一案的复函">最高人民法院经济审判庭关于榆林市可可盖供销社与怀来县物资局购销羊绒合同纠纷一案的复函</a></span>
+<p>/最高人民法院经济审判庭——(1992-5-14)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8603" target="_blank" title="最高人民法院研究室关于适用全国人大常委会《关于严禁卖淫嫖娼的决定》问题的电话答复">最高人民法院研究室关于适用全国人大常委会《关于严禁卖淫嫖娼的决定》问题的电话答复</a></span>
+<p>/最高人民法院研究室——(1992-5-9)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8601" target="_blank" title="最高人民法院关于对遗失金融债券可否按“公示催告”程序办理的复函">最高人民法院关于对遗失金融债券可否按“公示催告”程序办理的复函</a></span>
+<p>/最高人民法院——(1992-5-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8598" target="_blank" title="最高人民法院经济审判庭关于平度市西阁乳胶制品厂与青岛橡胶联合进出口公司来料加工合同效力认定问题的复函">最高人民法院经济审判庭关于平度市西阁乳胶制品厂与青岛橡胶联合进出口公司来料加工合同效</a></span>
+<p>/最高人民法院经济审判庭——(1992-5-7)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8594" target="_blank" title="最高人民法院关于案外人对执行标的提出异议问题的复函">最高人民法院关于案外人对执行标的提出异议问题的复函</a></span>
+<p>/最高人民法院——(1992-5-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8589" target="_blank" title="最高人民法院关于被执行人未按民事调解书指定期间履行给付金钱的义务是否应当支付延期履行的债务利息问题的复函(已废止)">最高人民法院关于被执行人未按民事调解书指定期间履行给付金钱的义务是否应当支付延期履行</a></span>
+<p>/最高人民法院——(1992-5-4)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=54539" target="_blank" title="关于人民法院干警实行岗位津贴的通知">关于人民法院干警实行岗位津贴的通知</a></span>
+<p>/人事部  财政部  最高人民法院——(1992-5-4)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8535" target="_blank" title="关于印发《第六次联席例会纪要》和《〈关于办理偷税、抗税刑事案件具体应用法律的若干问题的解释〉宣传提纲》的通知">关于印发《第六次联席例会纪要》和《〈关于办理偷税、抗税刑事案件具体应用法律的若干问题</a></span>
+<p>/最高人民法院办公厅等——(1992-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8529" target="_blank" title="最高人民法院关于合作化运动中的遗留问题不应由人民法院作为民事案件受理的复函">最高人民法院关于合作化运动中的遗留问题不应由人民法院作为民事案件受理的复函</a></span>
+<p>/最高人民法院——(1992-4-14)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8527" target="_blank" title="最高人民法院关于胡由之、郑乃章诉刘桢、卢碧亮著作权纠纷案的复函">最高人民法院关于胡由之、郑乃章诉刘桢、卢碧亮著作权纠纷案的复函</a></span>
+<p>/最高人民法院——(1992-4-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8523" target="_blank" title="最高人民法院关于因体制变动引起的房地产纠纷案法院不应受理的复函">最高人民法院关于因体制变动引起的房地产纠纷案法院不应受理的复函</a></span>
+<p>/最高人民法院——(1992-4-9)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8520" target="_blank" title="关于基层人民法院判处有期徒刑已发生法律效力的案件中级人民法院发现确有错误需要改判无期徒刑的案件如何适用审判程序问题的电话答复">关于基层人民法院判处有期徒刑已发生法律效力的案件中级人民法院发现确有错误需要改判无期</a></span>
+<p>/最高人民法院研究室——(1992-4-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8521" target="_blank" title="最高人民法院关于被判处死刑的被告人在上诉期满后又提出撤回上诉的应当如何处理问题的批复">最高人民法院关于被判处死刑的被告人在上诉期满后又提出撤回上诉的应当如何处理问题的批复</a></span>
+<p>/最高人民法院——(1992-4-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8522" target="_blank" title="最高人民法院关于胡震波诉叶润忠返还财物（邮票）纠纷应如何处理问题的函复">最高人民法院关于胡震波诉叶润忠返还财物（邮票）纠纷应如何处理问题的函复</a></span>
+<p>/最高人民法院——(1992-4-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8514" target="_blank" title="最高人民法院经济审判庭关于联营一方投资不参加经营既约定收回本息又收取固定利润的合同如何定性问题的复函">最高人民法院经济审判庭关于联营一方投资不参加经营既约定收回本息又收取固定利润的合同如</a></span>
+<p>/最高人民法院经济审判庭——(1992-4-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8502" target="_blank" title="最高人民法院关于财产保险单能否用于抵押的复函">最高人民法院关于财产保险单能否用于抵押的复函</a></span>
+<p>/最高人民法院——(1992-4-2)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8503" target="_blank" title="最高人民法院关于胶州市第二棉纺织厂破产一案和佛山市石湾区对外贸易公司诉胶州市第二棉纺织厂联营合同投资纠纷一案有关问题的复函">最高人民法院关于胶州市第二棉纺织厂破产一案和佛山市石湾区对外贸易公司诉胶州市第二棉纺</a></span>
+<p>/最高人民法院——(1992-4-2)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8498" target="_blank" title="最高人民法院关于不服工商行政管理机关的确认经济合同无效及财产损失的处理决定的案件应属行政案件的答复">最高人民法院关于不服工商行政管理机关的确认经济合同无效及财产损失的处理决定的案件应属</a></span>
+<p>/最高人民法院——(1992-4-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8499" target="_blank" title="最高人民法院关于不服工商行政管理机关的确认经济合同无效及财产损失的处理决定的案件应属行政案件的复函">最高人民法院关于不服工商行政管理机关的确认经济合同无效及财产损失的处理决定的案件应属</a></span>
+<p>/最高人民法院——(1992-4-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8500" target="_blank" title="最高人民法院研究室关于死缓犯和无期徒刑犯经几次减刑后又改判原减刑裁定是否均应撤销问题的电话答复">最高人民法院研究室关于死缓犯和无期徒刑犯经几次减刑后又改判原减刑裁定是否均应撤销问题</a></span>
+<p>/最高人民法院研究室——(1992-4-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8478" target="_blank" title="最高人民法院关于地主在土改时隐瞒未报的房屋应如何处理问题的函复">最高人民法院关于地主在土改时隐瞒未报的房屋应如何处理问题的函复</a></span>
+<p>/最高人民法院——(1992-3-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8480" target="_blank" title="最高人民法院关于学习宣传贯彻执行《中华人民共和国收养法》的通知">最高人民法院关于学习宣传贯彻执行《中华人民共和国收养法》的通知</a></span>
+<p>/最高人民法院——(1992-3-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=54372" target="_blank" title="最高人民法院关于学习、宣传、贯彻执行《中华人民共和国收养法》的通知">最高人民法院关于学习、宣传、贯彻执行《中华人民共和国收养法》的通知</a></span>
+<p>/最高人民法院——(1992-3-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8467" target="_blank" title="最高人民法院关于李新荣诉天津市第二医学院附属医院医疗事故赔偿一案如何适用法律问题的复函">最高人民法院关于李新荣诉天津市第二医学院附属医院医疗事故赔偿一案如何适用法律问题的复</a></span>
+<p>/最高人民法院——(1992-3-24)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8468" target="_blank" title="最高人民法院经济审判庭关于广东省江门市富田农工商经理部诉海南省海南宁赣贸易公司购销合同一案中法院可否冻结银行承兑汇票问题的复函">最高人民法院经济审判庭关于广东省江门市富田农工商经理部诉海南省海南宁赣贸易公司购销合</a></span>
+<p>/最高人民法院经济审判庭——(1992-3-24)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=8454" target="_blank" title="最高人民法院关于湖南省益阳地区供销社农副产品贸易中心工业品公司与浙江省绍兴县毛麻纺织总厂购销合同纠纷一案指定管辖的通知">最高人民法院关于湖南省益阳地区供销社农副产品贸易中心工业品公司与浙江省绍兴县毛麻纺织</a></span>
+<p>/最高人民法院——(1992-3-20)</p></li>
+
+   </ul>
+<br />
+
+
+<p>
+
+<!-- ad
+<script type="text/javascript">
+/*728*15链接，创建于2012-11-30*/
+var cpro_id = "u1144880";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+
+</p>
+
+
+ <p class="p_fenye">
+ 　　　当前为第30页 <a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=29&tm1=&tm2=' > 前一页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=1&tm1=&tm2=' >第1页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=2&tm1=&tm2=' >第2页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=3&tm1=&tm2=' >第3页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=4&tm1=&tm2=' >第4页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=5&tm1=&tm2=' >第5页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=6&tm1=&tm2=' >第6页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=7&tm1=&tm2=' >第7页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=8&tm1=&tm2=' >第8页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=9&tm1=&tm2=' >第9页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=10&tm1=&tm2=' >第10页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=11&tm1=&tm2=' >第11页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=12&tm1=&tm2=' >第12页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=13&tm1=&tm2=' >第13页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=14&tm1=&tm2=' >第14页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=15&tm1=&tm2=' >第15页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=16&tm1=&tm2=' >第16页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=17&tm1=&tm2=' >第17页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=18&tm1=&tm2=' >第18页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=19&tm1=&tm2=' >第19页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=20&tm1=&tm2=' >第20页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=21&tm1=&tm2=' >第21页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=22&tm1=&tm2=' >第22页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=23&tm1=&tm2=' >第23页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=24&tm1=&tm2=' >第24页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=25&tm1=&tm2=' >第25页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=26&tm1=&tm2=' >第26页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=27&tm1=&tm2=' >第27页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=28&tm1=&tm2=' >第28页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=29&tm1=&tm2=' >第29页</a>&nbsp;<span>第30页</span>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=31&tm1=&tm2=' >第31页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=32&tm1=&tm2=' >第32页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=33&tm1=&tm2=' >第33页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=34&tm1=&tm2=' >第34页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=35&tm1=&tm2=' >第35页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=36&tm1=&tm2=' >第36页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=37&tm1=&tm2=' >第37页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=38&tm1=&tm2=' >第38页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=39&tm1=&tm2=' >第39页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=40&tm1=&tm2=' >第40页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=41&tm1=&tm2=' >第41页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=42&tm1=&tm2=' >第42页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=43&tm1=&tm2=' >第43页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=44&tm1=&tm2=' >第44页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=45&tm1=&tm2=' >第45页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=46&tm1=&tm2=' >第46页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=47&tm1=&tm2=' >第47页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=48&tm1=&tm2=' >第48页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=49&tm1=&tm2=' >第49页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=50&tm1=&tm2=' >第50页</a>&nbsp;<a href='lawml.asp?bbdw=%D7%EE%B8%DF%C8%CB%C3%F1%B7%A8%D4%BA&pages=31&tm1=&tm2=' >下一页</a>&nbsp;
+</p>
+
+<br />
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 728x90, law-lib白底灰框 */
+google_ad_slot = "2159938016";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<br />
+
+</div>
+<!--end sub_leftcon-->
+
+
+<!--start sub_right-->
+<div  class="sub_right">
+<div class="tb_lw1">
+  <div align="center">
+<!-- ad
+<script type="text/javascript">/*200*200，创建于2012-8-21*/ var cpro_id = 'u1030925';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+  </div>
+</div>
+
+<div class="depart">
+
+<!-- search
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://s.law-lib.com/" target="_blank" title="《法律图书馆》网全文检索">《法律图书馆》网全文检索</a></div>
+    <div class="sub_con1"> 
+<script type="text/javascript">document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E%3Cscript charset="utf-8" src="http://rp.baidu.com/rp3w/3w.js?sid=2404560320655800373') + '&t=' + (Math.ceil(new Date()/3600000)) + unescape('"%3E%3C/script%3E'));</script>
+</div>
+-->
+
+
+<div class="h1_title1 center" style="color:#464445; font-weight:bold; font-size:14px;">《法律图书馆》公众微信</div>
+<div class="sub_con1"> 
+<div class="sub_img">
+<img src="http://www.law-lib.com/images/wx_258.JPG" width="160" height="160" alt="《法律图书馆》公众微信号" /></div>
+<br>
+关注《法律图书馆》网站公众微信号，即可每日获取最新的法规法规，法治动态等法律专业信息。
+<br>
+关注方法：扫描二维码，或搜索微信号：<b>law-lib</b>
+<br>
+</div>
+
+
+    <div class="h1_title1 center" style="margin-top:13px;"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="新法规速递">购安卓版软件，赠平板电脑</a></div>
+    <div class="sub_con1"> 
+    <div class="sub_img">
+    <a href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="安卓版软件"><img src="http://www.law-lib.com/law/newlaw/images/ipad_2.jpg" width="118" height="135" alt="安卓版软件版" /></a>
+    </div>&nbsp;&nbsp;&nbsp;
+      凡购《新法规速递》安卓手机版服务三年，赠预装法规软件的最新款七寸平板电脑一台。购一年服务者，另有Ｕ盘赠送。<br />
+      软件可以在线全文检索法规５０万件，离线查看本地法规３万件，还可以实时下载新的法规到本地。<br />
+      软件有免费版可<a style="color:red;" href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="下载试用"><b class="disnone">新法规速递</b>下载试用。</a></div>
+
+    <div class="center qrt1 mar13"><a style="color:#464445; font-weight:bold; padding-top:3px;" href="http://www.law-lib.com/law/newlaw" target="_blank">《新法规速递》电脑版<br />
+      &nbsp;全新推出绿色版，免安装</a></div>
+    <div class="sub_con1"> 
+    <div class="sub_img">
+    <a href="http://www.law-lib.com/law/newlaw" target="_blank" title="新法规速递"><img src="http://www.law-lib.com/law/newlaw/images/law_01.jpg" width="148" height="120" alt="新法规速递" /></a></div> &nbsp;软件收录1949-2017法律法规、司法解释、规范性文件及地方性法规约13万件。“云检索”功能，可以在线全文检索、浏览５０万件法规，可下载收藏浏览过的法规。2015年推出免安装绿色版<br />
+      软件可以免费<a style="color:red;" href="http://www.law-lib.com/law/newlaw" target="_blank"><b class="disnone">新法规速递</b>下载试用</a>，但未注册用户不提供更新和在线检索服务。</div>
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/vip/" target="_blank">《法律图书馆》在线数据库</a></div>
+    <div class="sub_con1">
+    <div class="sub_img"> <a href="http://www.law-lib.com/vip/" target="_blank"><img src="http://www.law-lib.com/law/newlaw/images/law_03.jpg" alt="新法规速递" width="148" height="120" border="0" /></a></div> &nbsp;&nbsp;&nbsp;收录1949年至今法律、行政法规、部门规章、司法解释、规范性文件、事务性文件；地方性法规、地方政府规章、地方政府规范性文件；国际条约、英文法律、英文行政法规、英文地方性法规；各地裁判文书、仲裁裁决、合同范本、法律文书、立法草案、法规释义、参考文件等信息；数据库记录近60万件，每天增加法规数百件。<br />
+      提供数十种组合检索方式，并有自定义首页，收藏法规，保存浏览检索记录等多种个性化功能。</div>
+
+
+
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/law/newlaw/flashdisk.asp" target="_blank" title="《新法规速递》U盘版">《新法规速递》U盘版</a></div>
+    <div class="sub_con1"> 使用4G的U盘，方便您将法规数据库随身携带，在不同的电脑上方便使用。同时也可以当作普通U盘使用，复制拷贝文件。软件功能和<a style="color:red" href="http://www.law-lib.com/law/newlaw/" target="_blank">电脑版</a>完全相同。</div>
+	</div>
+
+<div class="tb_lw">
+
+</div>
+
+
+<div class="depart">
+   <h1 class="h1_title center">中央颁布单位</h1>
+  <div class="sub_con">
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=全国人民代表大会" target="_blank">全国人民代表大会</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国务院" target="_blank">国务院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=最高人民法院" target="_blank">最高人民法院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=最高人民检察院" target="_blank">最高人民检察院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家发展和改革委员会" target="_blank">国家发展和改革委员会</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=商务部" target="_blank">商务部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=建设部" target="_blank">建设部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=公安部" target="_blank">公安部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=司法部" target="_blank">司法部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国土资源部" target="_blank">国土资源部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=财政部" target="_blank">财政部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=卫生部" target="_blank">卫生部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=教育部" target="_blank">教育部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=人事部" target="_blank">人事部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=劳动和社会保障部" target="_blank">劳动和社会保障部</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=外交部">外交部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=司法部">司法部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=监察部">监察部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=民政部">民政部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=科技部">科技部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=铁道部">铁道部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=水利部">水利部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=农业部">农业部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=文化部">文化部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=信息产业部">信息产业部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=中国人民银行" target="_blank">中国人民银行</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家税务总局" target="_blank">国家税务总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家工商行政管理总局" target="_blank">国家工商总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家质量监督检验检疫总局" target="_blank">国家质检总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=海关总署" target="_blank">海关总署</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家外汇管理局" target="_blank">国家外汇管理局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家食品药品监督管理局" target="_blank">食品药品监督管理局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=中国证券监督管理委员会" target="_blank">中国证监会</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家税务总局">国家税务总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家工商行政管理总局">国家工商行政管理总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家质量监督检验检疫总局">国家质量监督检验检疫总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家环境保护总局">国家环境保护总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国民用航空总局">中国民用航空总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家广播电影电视总局">国家广播电影电视总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家外汇管理局">国家外汇管理局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家食品药品监督管理局">国家食品药品监督管理局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家统计局">国家统计局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家林业局">国家林业局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国国家知识产权局">国家知识产权局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家旅游局">国家旅游局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家邮政局">国家邮政局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家安全生产监督管理局">国家安全生产监督管理局</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=海关总署">海关总署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=审计署">审计署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=新闻出版总署">新闻出版总署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家版权局">（国家版权局）</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国人民银行">中国人民银行</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国保险监督管理委员会">中国保险监督管理委员会</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国银行业监督管理委员会">中国银行业监督管理委员会</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国证券监督管理委员会">中国证券监督管理委员会</a> 
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家电力监管委员会">国家电力监管委员会</a> 
+              <p class="pmore"><a href="bbdw-zy.htm">更多中央颁布单位&gt;&gt;</a></p>
+   </div>
+</div>
+
+  
+ <br />
+ 
+
+<div class="depart" id="law_difang">
+  <h1 class="h1_title center">地方法规颁布单位</h1>
+  <div class="sub_con">
+              <p><a href="lawml.asp?bbdw=北京">北京市</a> <a href="lawml.asp?bbdw=天津">天津市</a> <a href="lawml.asp?bbdw=河北">河北省</a></p>
+			  <p><a href="lawml.asp?bbdw=山西">山西省</a> <a href="lawml.asp?bbdw=内蒙古">内蒙古自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=辽宁">辽宁省</a> <a href="lawml.asp?bbdw=吉林省">吉林省</a> <a href="lawml.asp?bbdw=黑龙江">黑龙江省</a></p>
+			  <p><a href="lawml.asp?bbdw=上海">上海市</a> <a href="lawml.asp?bbdw=江苏">江苏省</a> <a href="lawml.asp?bbdw=浙江">浙江省</a></p>
+			  <p><a href="lawml.asp?bbdw=安徽">安徽省</a> <a href="lawml.asp?bbdw=福建">福建省</a> <a href="lawml.asp?bbdw=江西">江西省</a></p>
+			  <p><a href="lawml.asp?bbdw=山东">山东省</a> <a href="lawml.asp?bbdw=河南">河南省</a> <a href="lawml.asp?bbdw=湖北">湖北省</a></p>
+			  <p><a href="lawml.asp?bbdw=湖南">湖南省</a> <a href="lawml.asp?bbdw=广西壮族">广西壮族自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=广东">广东省</a> <a href="lawml.asp?bbdw=海南">海南省</a> <a href="lawml.asp?bbdw=重庆">重庆市</a></p>
+			  <p><a href="lawml.asp?bbdw=四川">四川省</a> <a href="lawml.asp?bbdw=贵州">贵州省</a> <a href="lawml.asp?bbdw=云南">云南省</a></p>
+			  <p><a href="lawml.asp?bbdw=西藏">西藏自治区</a> <a href="lawml.asp?bbdw=陕西">陕西省</a> <a href="lawml.asp?bbdw=甘肃">甘肃省</a></p>
+			  <p><a href="lawml.asp?bbdw=青海">青海省</a> <a href="lawml.asp?bbdw=宁夏回族">宁夏回族自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=新疆维吾尔">新疆维吾尔自治区</a></p>
+			  <p class="pmore"><a href="http://www.law-lib.com/law/bbdw-df.htm">更多省市自治区&gt;&gt;</a></p>
+
+   </div>
+</div>
+<div style="margin:10px 0px 0px 5px;">
+
+<script type="text/javascript">/*200*200，创建于2012-8-21*/ var cpro_id = 'u1030925';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+
+</div>
+<div style="text-align:center">
+<br />
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 160x600, law-lib白底灰框 */
+google_ad_slot = "4452393317";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br />
+
+</div>
+</div>
+</div>
+<!--end sub_right-->
+
+<!--start footer_nav-->
+<div id="footer_nav">
+
+<br /><br />
+<p><a href="/">主页</a> | <a href="/site/about.htm">关于我们</a> | <a href="/site/sitemap.htm">本站地图</a> | <a href="/site/ads.htm">广告服务</a> | <a href="/site/agent.htm">诚招代理</a> | <a href="/products/">产品服务</a> | <a href="/vip/">在线数据库</a> | <a href="/site/contacts.htm">联系方式</a></p>
+<p>Copyright &copy; 1999-2017 杭州法图网络科技有限公司</p>
+
+
+
+</div>
+
+<br /><br /><br /><br />
+<!--end footer_nav-->
+
+
+
+</div><!--end contain-->
+</div><!--end box-->
+</body>
+</html>

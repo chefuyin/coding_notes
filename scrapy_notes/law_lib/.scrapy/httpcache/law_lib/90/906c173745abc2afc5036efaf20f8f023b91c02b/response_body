@@ -1,0 +1,516 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>法律法规 全国人民代表大会</title>
+<meta name="description" content="提供法律法规数据库、法学论文、裁判文书、律师黄页、法治动态、司法考试资料、法律图书、法律书刊、法律书摘、著者介绍、出版社介绍等资料。">
+<meta name="keywords" content="法律，法学,律师，律师事务所，司法考试" >
+<link  href="../css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="law">
+<div id="box"> 
+<div id="contain">
+
+<div id="top" style="float:left">
+<div id="logo"><a href="http://www.law-lib.com"><img src="../images/logo/law_logo.gif" alt="法图图书馆——新法规速递" border="0"/></a></div>
+</div>
+
+
+<!--start nav-->
+
+<div id="nav" style=" float:right">
+  <div class="nav_left">
+   <div class="nav_right"> 
+  <ul>
+<li class="nav_li1">
+<a href="/" class="navindex" title="法律图书馆首页" target="_blank">网站首页</a><a href="/law/" class="navlaw" title="新法规速递" target="_blank"> 新法规速递</a>
+<a href="/lw/" class="navlw" title="论文资料库" target="_blank">论文资料库</a><a href="/sk/" class="navsk" title="司法考试" target="_blank">司法考试</a>
+<a href="/lawyer/" class="navlawyer" title="律师黄页" target="_blank">律师黄页</a><a href="/fzdt/" class="navfzdt" title="法治动态">法治动态 </a>
+<a href="/lawbook/" class="navlawbook" title="法律图书" target="_blank">法律图书</a><a href="/shopping/" class="navshopping" title="法律网上书店" target="_blank">网上书店</a><a href="/job/" class="navvip" title="法律人才" target="_blank">法律人才</a><a href="/vip/" class="navvip" title="在线数据库" target="_blank">在线数据库<img src="/images/hot.gif" class="hotx" /></a>
+<br class="clear" />
+</li>	
+<li  class="nav_li2">
+<a href="/flsz/" class="navflsz" title="法律书摘" target="_blank">法律书摘</a><a href="/cpws/" class="navcpws" title="裁判文书" target="_blank">裁判文书</a>
+<a href="/flws/" class="navflws" title="法律文书" target="_blank">法律文书</a><a href="/htfb/" class="navhtfb" title="合同范本" target="_blank">合同范本</a>
+<a href="/lawseek/" class="navlawsite" title="法律网导航" target="_blank">法律网导航</a><a href="/maillist/" class="navmaillist" title="电子杂志" target="_blank">电子杂志</a><a href="/fxj/" class="navfxj" title="法律学人" target="_blank">法律学人</a><a href="/local/" class="navzt" title="地方频道">地方频道</a><a href="/site/weixin.html" class="navbbs" title="公众微信" target="_blank">公众微信<img src="/images/wx18.jpg" class="newx" /></a><a href="http://m.law-lib.com/mobile.asp" class="navwap" title="WAP版" target="_blank">WAP版</a>
+<br class="clear" />
+</li>
+   </ul>
+   </div>
+  </div>
+</div>
+<!--end nav-->
+
+<div class="lwnav_top">
+<div class="lwnav_top1">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 728x90, law-lib白底灰框 */
+google_ad_slot = "2159938016";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="lwnav_top2"><a href="../vip/intro.asp" target="_blank"><img src="../vip/images/vip_2.gif"  width="212" height="90" border="0"/></a></div>
+</div>
+<br  class="clear"/>
+
+<br />
+<div id="sub_nav">
+<span class="sub_navleft"><a href="http://www.law-lib.com/law/">新法规速递</a></span>
+<a href="http://www.law-lib.com/law/newlaw/">新法规速递软件</a> | <a href="http://www.law-lib.com/law/lawmlnew-zy.asp">最新国家法律法规</a> |  <a href="http://www.law-lib.com/law/lawmlnew-df.asp">最新地方法规</a> | <a href="http://www.law-lib.com/law/bbdw-zy.htm">中央颁布单位</a> |  <a href="http://www.law-lib.com/law/bbdw-df.htm">地方法规颁布单位</a> | <a href="http://www.law-lib.com/fzdt/sort21.asp">法规释义</a> | <a href="http://www.law-lib.com/fzdt/sort20.asp">立法草案</a> | <a href="http://www.law-lib.com/vip/">VIP在线数据库</a></div>
+<br />
+<div id="search1">
+  <div class="sub_con">
+ <form method="POST" action="lawml.asp" target="_blank">
+<p>题目:<input type="text" name="tm1" id="right_tm1" style="width:100px;" />并且:<input type="text" name="tm2" id="right_tm2" style="width:100px;"/></p> 
+<p>单位:<input type="text" name="bbdw" id="right_bbdw" style="width:100px;" /><input type="submit" value="法律法规检索" name="BB1" id="right_BB1"/></p>
+</form>
+</div>
+</div>
+
+<div id="dryh">
+  <div class="sub_con">
+<FORM name="loginform" action="/passport/userlogin_form.asp" method="post" onSubmit="return check_data();" >
+    <p>登录名:<INPUT name="username" id="username" style="width:100px;">密码:<INPUT type=password name="passwd" id="passwd" style="width:100px;"><INPUT  type=submit value="登录"  name="submit" id="enter" style="margin-left:4px;"></p>
+</FORM>
+<p class="p_size"><input type=checkbox name=AutoLogin value="1" checked style="border:none">在此电脑保存用户名和密码&nbsp;<a href="/passport/register.asp" target="_blank">新注册</a> | <a href="/passport/user_resetpwd.asp" target="_blank">找回密码</a></p>
+</div>
+</div>
+
+
+  <div id="dzzza">
+    <p>《新法规速递》电子杂志每日发送法规全文,<a href="http://list.qq.com/cgi-bin/qf_invite?id=1f8da26f739970614b6ed3b7817b57e2e3f65720e79d3761" target="_blank">订阅</a></p>
+	<p>《法律图书馆》电子杂志每周发送目录摘要,<a href="订阅" target="_blank">订阅</a></p>
+  </div>
+
+<!-- start sub_leftcon -->
+<div class="sub_left">
+
+
+<p class="p_topnav">您现在的位置：<a href="http://www/law-lib.com">法律图书馆</a>>><a href="http://www/law-lib.com/law/">新法规速递</a>>> 全国人民代表大会</p><br />
+                       	
+<p class="center">此页检索结果<b>仅显示主要的中央法规</b>，你可以点击显示：<a href="lawml-zy.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&tm1=&tm2="><b>更多中央法规</b></a>，或者显示：<a href="lawml-df.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&tm1=&tm2="><b>地方法规</b></a></p><br> 		   				   
+ <ul id="lawml_ul" class="law_list">
+   
+<li><span class="spanleft">· <a href="law_view.asp?id=95070" target="_blank" title="第五届全国人民代表大会代表资格审查委员会主任委员名单">第五届全国人民代表大会代表资格审查委员会主任委员名单</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95071" target="_blank" title="第五届全国人民代表大会第三次会议提案审查委员会主任委员、副主任委员、委员名单（63人）">第五届全国人民代表大会第三次会议提案审查委员会主任委员、副主任委员、委员名单（63人</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=2130" target="_blank" title="全国人民代表大会常务委员会关于批准《广东省经济特区条例》的决议">全国人民代表大会常务委员会关于批准《广东省经济特区条例》的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=44300" target="_blank" title="中华人民共和国律师暂行条例(附英文)">中华人民共和国律师暂行条例(附英文)</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95046" target="_blank" title="第五届全国人民代表大会常务委员会关于第五届全国人民代表大会第三次会议召开日期的决定">第五届全国人民代表大会常务委员会关于第五届全国人民代表大会第三次会议召开日期的决定</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95047" target="_blank" title="第五届全国人民代表大会常务委员会关于处理第五届全国人民代表大会第二次会议交由常务委员会研究办理或者研究的73件提案的决议">第五届全国人民代表大会常务委员会关于处理第五届全国人民代表大会第二次会议交由常务委员</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95048" target="_blank" title="第五届全国人民代表大会常务委员会关于设立国家能源委员会的决议">第五届全国人民代表大会常务委员会关于设立国家能源委员会的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95049" target="_blank" title="第五届全国人民代表大会常务委员会关于解除宋振明的石油工业部部长职务的决定">第五届全国人民代表大会常务委员会关于解除宋振明的石油工业部部长职务的决定</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95050" target="_blank" title="第五届全国人民代表大会常务委员会任免人员（1980年8月26日）">第五届全国人民代表大会常务委员会任免人员（1980年8月26日）</a></span>
+<p>/全国人民代表大会常务委员会——(1980-8-26)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95038" target="_blank" title="第五届全国人民代表大会常务委员会关于建议修改宪法第四十五条的议案">第五届全国人民代表大会常务委员会关于建议修改宪法第四十五条的议案</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95039" target="_blank" title="第五届全国人民代表大会常务委员会关于召开第五届全国人民代表大会第三次会议的决定">第五届全国人民代表大会常务委员会关于召开第五届全国人民代表大会第三次会议的决定</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95040" target="_blank" title="全国人民代表大会常务委员会关于实施刑事诉讼法规划问题的决议">全国人民代表大会常务委员会关于实施刑事诉讼法规划问题的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95041" target="_blank" title="第五届全国人民代表大会常务委员会关于中华人民共和国婚姻法修改草案的决议">第五届全国人民代表大会常务委员会关于中华人民共和国婚姻法修改草案的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95042" target="_blank" title="第五届全国人民代表大会常务委员会关于接受吴德辞去本届全国人民代表大会常务委员会副委员长职务的决定">第五届全国人民代表大会常务委员会关于接受吴德辞去本届全国人民代表大会常务委员会副委员</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95043" target="_blank" title="第五届全国人民代表大会常务委员会决定任免国务院副总理的名单（1980年4月）">第五届全国人民代表大会常务委员会决定任免国务院副总理的名单（1980年4月）</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95044" target="_blank" title="第五届全国人民代表大会常务委员会法制委员会增加的副主任、委员名单（1980年4月）">第五届全国人民代表大会常务委员会法制委员会增加的副主任、委员名单（1980年4月）</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95045" target="_blank" title="第五届全国人民代表大会常务委员会任免名单（1980年4月16日）">第五届全国人民代表大会常务委员会任免名单（1980年4月16日）</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-16)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95037" target="_blank" title="中国共产党中央委员会关于修改宪法第四十五条的建议">中国共产党中央委员会关于修改宪法第四十五条的建议</a></span>
+<p>/全国人民代表大会常务委员会——(1980-4-8)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=583" target="_blank" title="中华人民共和国学位条例">中华人民共和国学位条例</a></span>
+<p>/全国人民代表大会常务委员会——(1980-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=2051" target="_blank" title="全国人民代表大会常务委员会关于刑事诉讼法实施问题的决定">全国人民代表大会常务委员会关于刑事诉讼法实施问题的决定</a></span>
+<p>/全国人民代表大会——(1980-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=44124" target="_blank" title="全国人民代表大会常务委员会关于县级直接选举工作问题的决定">全国人民代表大会常务委员会关于县级直接选举工作问题的决定</a></span>
+<p>/全国人民代表大会常务委员会——(1980-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95033" target="_blank" title="第五届全国人民代表大会常务委员会关于中华人民共和国国籍法草案的决议">第五届全国人民代表大会常务委员会关于中华人民共和国国籍法草案的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1980-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95034" target="_blank" title="第五届全国人民代表大会常务委员会关于设立国务院机械工业委员会的决议">第五届全国人民代表大会常务委员会关于设立国务院机械工业委员会的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1980-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95035" target="_blank" title="第五届全国人民代表大会常务委员会关于国务院提请全国人民代表大会常务委员会决定任免的名单的决定（1980年2月）">第五届全国人民代表大会常务委员会关于国务院提请全国人民代表大会常务委员会决定任免的名</a></span>
+<p>/全国人民代表大会常务委员会——(1980-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95036" target="_blank" title="全国人民代表大会常务委员会任免人员（1980年第2期公报）">全国人民代表大会常务委员会任免人员（1980年第2期公报）</a></span>
+<p>/全国人民代表大会常务委员会——(1980-2-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=584" target="_blank" title="全国人民代表大会常务委员会关于中华人民共和国建国以来制定的法律、法令效力问题的决议">全国人民代表大会常务委员会关于中华人民共和国建国以来制定的法律、法令效力问题的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1979-11-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=2004" target="_blank" title="全国人民代表大会常务委员会批准《国务院关于劳动教养的补充规定》的决议">全国人民代表大会常务委员会批准《国务院关于劳动教养的补充规定》的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1979-11-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95030" target="_blank" title="全国人民代表大会常务委员会关于通过彭真副委员长兼任常务委员会代秘书长的决议">全国人民代表大会常务委员会关于通过彭真副委员长兼任常务委员会代秘书长的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1979-11-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95031" target="_blank" title="全国人民代表大会常务委员会任命人员（1980年第1期公报）">全国人民代表大会常务委员会任命人员（1980年第1期公报）</a></span>
+<p>/全国人民代表大会常务委员会——(1979-11-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=44003" target="_blank" title="中华人民共和国环境保护法(试行)">中华人民共和国环境保护法(试行)</a></span>
+<p>/全国人民代表大会常务委员会——(1979-9-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95027" target="_blank" title="全国人民代表大会常务委员会关于省、自治区、直辖市可以在一九七九年设立人民代表大会常务委员会和将革命委员会改为人民政府的决议">全国人民代表大会常务委员会关于省、自治区、直辖市可以在一九七九年设立人民代表大会常务</a></span>
+<p>/全国人民代表大会常务委员会——(1979-9-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95028" target="_blank" title="全国人民代表大会常务委员会关于国务院提议任命名单的决定">全国人民代表大会常务委员会关于国务院提议任命名单的决定</a></span>
+<p>/全国人民代表大会常务委员会——(1979-9-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95029" target="_blank" title="全国人民代表大会常务委员会关于设立第八机械工业部、司法部、地质部和任免名单的决定">全国人民代表大会常务委员会关于设立第八机械工业部、司法部、地质部和任免名单的决定</a></span>
+<p>/全国人民代表大会常务委员会——(1979-9-13)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95026" target="_blank" title="全国人民代表大会常务委员会关于设立外国投资管理委员会、进出口管理委员会和任命名单的决定">全国人民代表大会常务委员会关于设立外国投资管理委员会、进出口管理委员会和任命名单的决</a></span>
+<p>/全国人民代表大会常务委员会——(1979-7-30)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95025" target="_blank" title="全国人民代表大会常务委员会关于设立国务院财政经济委员会和任命名单的决定">全国人民代表大会常务委员会关于设立国务院财政经济委员会和任命名单的决定</a></span>
+<p>/全国人民代表大会常务委员会——(1979-7-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=99135" target="_blank" title="中华人民共和国中外合资经营企业法（1979）">中华人民共和国中外合资经营企业法（1979）</a></span>
+<p>/全国人民代表大会——(1979-7-1)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=43888" target="_blank" title="中华人民共和国逮捕拘留条例">中华人民共和国逮捕拘留条例</a></span>
+<p>/全国人民代表大会常务委员会——(1979-2-23)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=43889" target="_blank" title="中华人民共和国森林法（试行）">中华人民共和国森林法（试行）</a></span>
+<p>/全国人民代表大会常务委员会——(1979-2-23)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=43826" target="_blank" title="全国人民代表大会常务委员会关于批准中国人民解放军干部服役条例的决议">全国人民代表大会常务委员会关于批准中国人民解放军干部服役条例的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1978-8-18)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=303822" target="_blank" title="中国人民解放军干部服役条例">中国人民解放军干部服役条例</a></span>
+<p>/全国人民代表大会常务委员会——(1978-8-18)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=1846" target="_blank" title="全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议">全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1978-5-24)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=1847" target="_blank" title="全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议">全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1978-5-24)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=343217" target="_blank" title="中华人民共和国宪法(1978年)">中华人民共和国宪法(1978年)</a></span>
+<p>/全国人民代表大会——(1978-3-5)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=343216" target="_blank" title="中华人民共和国宪法(1975年)">中华人民共和国宪法(1975年)</a></span>
+<p>/全国人民代表大会——(1975-1-17)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95017" target="_blank" title="中华人民共和国主席特赦令（1966年3月）">中华人民共和国主席特赦令（1966年3月）</a></span>
+<p>/全国人民代表大会常务委员会——(1966-3-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95018" target="_blank" title="全国人民代表大会常务委员会关于特赦确实改恶从善的蒋介石集团、伪满洲国和伪蒙疆自治政府的战争罪犯的决定(1966年)">全国人民代表大会常务委员会关于特赦确实改恶从善的蒋介石集团、伪满洲国和伪蒙疆自治政府</a></span>
+<p>/全国人民代表大会常务委员会——(1966-3-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95020" target="_blank" title="青海省海南藏族自治州各级人民代表大会和各级人民委员会组织条例">青海省海南藏族自治州各级人民代表大会和各级人民委员会组织条例</a></span>
+<p>/全国人民代表大会常务委员会——(1966-3-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95021" target="_blank" title="新疆维吾尔自治区克孜勒苏柯尔克孜自治州各级人民代表大会和各级人民委员会组织条例">新疆维吾尔自治区克孜勒苏柯尔克孜自治州各级人民代表大会和各级人民委员会组织条例</a></span>
+<p>/全国人民代表大会常务委员会——(1966-3-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95022" target="_blank" title="新疆维吾尔自治区巴音郭楞蒙古自治州人民代表大会和人民委员会组织条例">新疆维吾尔自治区巴音郭楞蒙古自治州人民代表大会和人民委员会组织条例</a></span>
+<p>/全国人民代表大会常务委员会——(1966-3-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=300955" target="_blank" title="中华人民共和国主席令（三届第10号）">中华人民共和国主席令（三届第10号）</a></span>
+<p>/全国人民代表大会常务委员会——(1966-3-29)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95024" target="_blank" title="全国人民代表大会常务委员会任免人员（1966年3月12日）">全国人民代表大会常务委员会任免人员（1966年3月12日）</a></span>
+<p>/全国人民代表大会常务委员会——(1966-3-12)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95023" target="_blank" title="中华人民共和国主席任免人员（1966年第1期公报）">中华人民共和国主席任免人员（1966年第1期公报）</a></span>
+<p>/全国人民代表大会常务委员会——(1966-1-28)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95014" target="_blank" title="全国人民代表大会常务委员会关于批准撤销最高人民法院西藏分院和最高人民检察院西藏分院的决议">全国人民代表大会常务委员会关于批准撤销最高人民法院西藏分院和最高人民检察院西藏分院的</a></span>
+<p>/全国人民代表大会常务委员会——(1965-11-20)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95016" target="_blank" title="全国人民代表大会常务委员会任免人员（1965年第5期公报）">全国人民代表大会常务委员会任免人员（1965年第5期公报）</a></span>
+<p>/全国人民代表大会常务委员会——(1965-11-20)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95015" target="_blank" title="中华人民共和国主席任免人员（1965年第5期公报）">中华人民共和国主席任免人员（1965年第5期公报）</a></span>
+<p>/全国人民代表大会常务委员会——(1965-11-11)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95010" target="_blank" title="全国人民代表大会常务委员会关于成立西藏自治区的决议">全国人民代表大会常务委员会关于成立西藏自治区的决议</a></span>
+<p>/全国人民代表大会常务委员会——(1965-8-25)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95008" target="_blank" title="四川省凉山彝族自治州各级人民代表大会和各级人民委员会组织条例">四川省凉山彝族自治州各级人民代表大会和各级人民委员会组织条例</a></span>
+<p>/全国人民代表大会常务委员会——(1965-8-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95009" target="_blank" title="四川省甘孜藏族自治州各级人民代表大会和各级人民委员会组织条例">四川省甘孜藏族自治州各级人民代表大会和各级人民委员会组织条例</a></span>
+<p>/全国人民代表大会常务委员会——(1965-8-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95013" target="_blank" title="中华人民共和国全国人民代表大会访问印度尼西亚共和国代表团名单(1965年8月6日)">中华人民共和国全国人民代表大会访问印度尼西亚共和国代表团名单(1965年8月6日)</a></span>
+<p>/全国人民代表大会常务委员会——(1965-8-6)</p></li>
+
+<li><span class="spanleft">· <a href="law_view.asp?id=95011" target="_blank" title="中华人民共和国主席任免人员（1965年第4期公报）">中华人民共和国主席任免人员（1965年第4期公报）</a></span>
+<p>/全国人民代表大会常务委员会——(1965-8-4)</p></li>
+
+   </ul>
+<br />
+
+
+<p>
+
+<!-- ad
+<script type="text/javascript">
+/*728*15链接，创建于2012-11-30*/
+var cpro_id = "u1144880";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+
+</p>
+
+
+ <p class="p_fenye">
+ 　　　当前为第42页 <a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=41&tm1=&tm2=' > 前一页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=1&tm1=&tm2=' >第1页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=2&tm1=&tm2=' >第2页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=3&tm1=&tm2=' >第3页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=4&tm1=&tm2=' >第4页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=5&tm1=&tm2=' >第5页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=6&tm1=&tm2=' >第6页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=7&tm1=&tm2=' >第7页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=8&tm1=&tm2=' >第8页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=9&tm1=&tm2=' >第9页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=10&tm1=&tm2=' >第10页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=11&tm1=&tm2=' >第11页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=12&tm1=&tm2=' >第12页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=13&tm1=&tm2=' >第13页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=14&tm1=&tm2=' >第14页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=15&tm1=&tm2=' >第15页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=16&tm1=&tm2=' >第16页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=17&tm1=&tm2=' >第17页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=18&tm1=&tm2=' >第18页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=19&tm1=&tm2=' >第19页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=20&tm1=&tm2=' >第20页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=21&tm1=&tm2=' >第21页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=22&tm1=&tm2=' >第22页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=23&tm1=&tm2=' >第23页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=24&tm1=&tm2=' >第24页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=25&tm1=&tm2=' >第25页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=26&tm1=&tm2=' >第26页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=27&tm1=&tm2=' >第27页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=28&tm1=&tm2=' >第28页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=29&tm1=&tm2=' >第29页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=30&tm1=&tm2=' >第30页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=31&tm1=&tm2=' >第31页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=32&tm1=&tm2=' >第32页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=33&tm1=&tm2=' >第33页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=34&tm1=&tm2=' >第34页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=35&tm1=&tm2=' >第35页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=36&tm1=&tm2=' >第36页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=37&tm1=&tm2=' >第37页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=38&tm1=&tm2=' >第38页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=39&tm1=&tm2=' >第39页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=40&tm1=&tm2=' >第40页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=41&tm1=&tm2=' >第41页</a>&nbsp;<span>第42页</span>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=43&tm1=&tm2=' >第43页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=44&tm1=&tm2=' >第44页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=45&tm1=&tm2=' >第45页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=46&tm1=&tm2=' >第46页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=47&tm1=&tm2=' >第47页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=48&tm1=&tm2=' >第48页</a>&nbsp;<a href='lawml.asp?bbdw=%C8%AB%B9%FA%C8%CB%C3%F1%B4%FA%B1%ED%B4%F3%BB%E1&pages=43&tm1=&tm2=' >下一页</a>&nbsp;
+</p>
+
+<br />
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 728x90, law-lib白底灰框 */
+google_ad_slot = "2159938016";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<br />
+
+</div>
+<!--end sub_leftcon-->
+
+
+<!--start sub_right-->
+<div  class="sub_right">
+<div class="tb_lw1">
+  <div align="center">
+<!-- ad
+<script type="text/javascript">/*200*200，创建于2012-8-21*/ var cpro_id = 'u1030925';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+  </div>
+</div>
+
+<div class="depart">
+
+<!-- search
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://s.law-lib.com/" target="_blank" title="《法律图书馆》网全文检索">《法律图书馆》网全文检索</a></div>
+    <div class="sub_con1"> 
+<script type="text/javascript">document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E%3Cscript charset="utf-8" src="http://rp.baidu.com/rp3w/3w.js?sid=2404560320655800373') + '&t=' + (Math.ceil(new Date()/3600000)) + unescape('"%3E%3C/script%3E'));</script>
+</div>
+-->
+
+
+<div class="h1_title1 center" style="color:#464445; font-weight:bold; font-size:14px;">《法律图书馆》公众微信</div>
+<div class="sub_con1"> 
+<div class="sub_img">
+<img src="http://www.law-lib.com/images/wx_258.JPG" width="160" height="160" alt="《法律图书馆》公众微信号" /></div>
+<br>
+关注《法律图书馆》网站公众微信号，即可每日获取最新的法规法规，法治动态等法律专业信息。
+<br>
+关注方法：扫描二维码，或搜索微信号：<b>law-lib</b>
+<br>
+</div>
+
+
+    <div class="h1_title1 center" style="margin-top:13px;"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="新法规速递">购安卓版软件，赠平板电脑</a></div>
+    <div class="sub_con1"> 
+    <div class="sub_img">
+    <a href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="安卓版软件"><img src="http://www.law-lib.com/law/newlaw/images/ipad_2.jpg" width="118" height="135" alt="安卓版软件版" /></a>
+    </div>&nbsp;&nbsp;&nbsp;
+      凡购《新法规速递》安卓手机版服务三年，赠预装法规软件的最新款七寸平板电脑一台。购一年服务者，另有Ｕ盘赠送。<br />
+      软件可以在线全文检索法规５０万件，离线查看本地法规３万件，还可以实时下载新的法规到本地。<br />
+      软件有免费版可<a style="color:red;" href="http://www.law-lib.com/law/newlaw/android.asp" target="_blank" title="下载试用"><b class="disnone">新法规速递</b>下载试用。</a></div>
+
+    <div class="center qrt1 mar13"><a style="color:#464445; font-weight:bold; padding-top:3px;" href="http://www.law-lib.com/law/newlaw" target="_blank">《新法规速递》电脑版<br />
+      &nbsp;全新推出绿色版，免安装</a></div>
+    <div class="sub_con1"> 
+    <div class="sub_img">
+    <a href="http://www.law-lib.com/law/newlaw" target="_blank" title="新法规速递"><img src="http://www.law-lib.com/law/newlaw/images/law_01.jpg" width="148" height="120" alt="新法规速递" /></a></div> &nbsp;软件收录1949-2017法律法规、司法解释、规范性文件及地方性法规约13万件。“云检索”功能，可以在线全文检索、浏览５０万件法规，可下载收藏浏览过的法规。2015年推出免安装绿色版<br />
+      软件可以免费<a style="color:red;" href="http://www.law-lib.com/law/newlaw" target="_blank"><b class="disnone">新法规速递</b>下载试用</a>，但未注册用户不提供更新和在线检索服务。</div>
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/vip/" target="_blank">《法律图书馆》在线数据库</a></div>
+    <div class="sub_con1">
+    <div class="sub_img"> <a href="http://www.law-lib.com/vip/" target="_blank"><img src="http://www.law-lib.com/law/newlaw/images/law_03.jpg" alt="新法规速递" width="148" height="120" border="0" /></a></div> &nbsp;&nbsp;&nbsp;收录1949年至今法律、行政法规、部门规章、司法解释、规范性文件、事务性文件；地方性法规、地方政府规章、地方政府规范性文件；国际条约、英文法律、英文行政法规、英文地方性法规；各地裁判文书、仲裁裁决、合同范本、法律文书、立法草案、法规释义、参考文件等信息；数据库记录近60万件，每天增加法规数百件。<br />
+      提供数十种组合检索方式，并有自定义首页，收藏法规，保存浏览检索记录等多种个性化功能。</div>
+
+
+
+    <div class="h1_title1 center mar13"><a style="color:#464445; font-weight:bold;" href="http://www.law-lib.com/law/newlaw/flashdisk.asp" target="_blank" title="《新法规速递》U盘版">《新法规速递》U盘版</a></div>
+    <div class="sub_con1"> 使用4G的U盘，方便您将法规数据库随身携带，在不同的电脑上方便使用。同时也可以当作普通U盘使用，复制拷贝文件。软件功能和<a style="color:red" href="http://www.law-lib.com/law/newlaw/" target="_blank">电脑版</a>完全相同。</div>
+	</div>
+
+<div class="tb_lw">
+
+</div>
+
+
+<div class="depart">
+   <h1 class="h1_title center">中央颁布单位</h1>
+  <div class="sub_con">
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=全国人民代表大会" target="_blank">全国人民代表大会</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国务院" target="_blank">国务院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=最高人民法院" target="_blank">最高人民法院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=最高人民检察院" target="_blank">最高人民检察院</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家发展和改革委员会" target="_blank">国家发展和改革委员会</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=商务部" target="_blank">商务部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=建设部" target="_blank">建设部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=公安部" target="_blank">公安部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=司法部" target="_blank">司法部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国土资源部" target="_blank">国土资源部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=财政部" target="_blank">财政部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=卫生部" target="_blank">卫生部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=教育部" target="_blank">教育部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=人事部" target="_blank">人事部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=劳动和社会保障部" target="_blank">劳动和社会保障部</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=外交部">外交部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=司法部">司法部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=监察部">监察部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=民政部">民政部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=科技部">科技部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=铁道部">铁道部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=水利部">水利部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=农业部">农业部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=文化部">文化部</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=信息产业部">信息产业部</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=中国人民银行" target="_blank">中国人民银行</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家税务总局" target="_blank">国家税务总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家工商行政管理总局" target="_blank">国家工商总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家质量监督检验检疫总局" target="_blank">国家质检总局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=海关总署" target="_blank">海关总署</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家外汇管理局" target="_blank">国家外汇管理局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=国家食品药品监督管理局" target="_blank">食品药品监督管理局</a></p>
+              <p><a href="http://www.law-lib.com/law/lawml.asp?bbdw=中国证券监督管理委员会" target="_blank">中国证监会</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家税务总局">国家税务总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家工商行政管理总局">国家工商行政管理总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家质量监督检验检疫总局">国家质量监督检验检疫总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家环境保护总局">国家环境保护总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国民用航空总局">中国民用航空总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家广播电影电视总局">国家广播电影电视总局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家外汇管理局">国家外汇管理局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家食品药品监督管理局">国家食品药品监督管理局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家统计局">国家统计局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家林业局">国家林业局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国国家知识产权局">国家知识产权局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家旅游局">国家旅游局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家邮政局">国家邮政局</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家安全生产监督管理局">国家安全生产监督管理局</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=海关总署">海关总署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=审计署">审计署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=新闻出版总署">新闻出版总署</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家版权局">（国家版权局）</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国人民银行">中国人民银行</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国保险监督管理委员会">中国保险监督管理委员会</a></p>
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国银行业监督管理委员会">中国银行业监督管理委员会</a></p>
+			  <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=中国证券监督管理委员会">中国证券监督管理委员会</a> 
+              <p><a target="_blank" href="http://www.law-lib.com/law/lawml.asp?bbdw=国家电力监管委员会">国家电力监管委员会</a> 
+              <p class="pmore"><a href="bbdw-zy.htm">更多中央颁布单位&gt;&gt;</a></p>
+   </div>
+</div>
+
+  
+ <br />
+ 
+
+<div class="depart" id="law_difang">
+  <h1 class="h1_title center">地方法规颁布单位</h1>
+  <div class="sub_con">
+              <p><a href="lawml.asp?bbdw=北京">北京市</a> <a href="lawml.asp?bbdw=天津">天津市</a> <a href="lawml.asp?bbdw=河北">河北省</a></p>
+			  <p><a href="lawml.asp?bbdw=山西">山西省</a> <a href="lawml.asp?bbdw=内蒙古">内蒙古自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=辽宁">辽宁省</a> <a href="lawml.asp?bbdw=吉林省">吉林省</a> <a href="lawml.asp?bbdw=黑龙江">黑龙江省</a></p>
+			  <p><a href="lawml.asp?bbdw=上海">上海市</a> <a href="lawml.asp?bbdw=江苏">江苏省</a> <a href="lawml.asp?bbdw=浙江">浙江省</a></p>
+			  <p><a href="lawml.asp?bbdw=安徽">安徽省</a> <a href="lawml.asp?bbdw=福建">福建省</a> <a href="lawml.asp?bbdw=江西">江西省</a></p>
+			  <p><a href="lawml.asp?bbdw=山东">山东省</a> <a href="lawml.asp?bbdw=河南">河南省</a> <a href="lawml.asp?bbdw=湖北">湖北省</a></p>
+			  <p><a href="lawml.asp?bbdw=湖南">湖南省</a> <a href="lawml.asp?bbdw=广西壮族">广西壮族自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=广东">广东省</a> <a href="lawml.asp?bbdw=海南">海南省</a> <a href="lawml.asp?bbdw=重庆">重庆市</a></p>
+			  <p><a href="lawml.asp?bbdw=四川">四川省</a> <a href="lawml.asp?bbdw=贵州">贵州省</a> <a href="lawml.asp?bbdw=云南">云南省</a></p>
+			  <p><a href="lawml.asp?bbdw=西藏">西藏自治区</a> <a href="lawml.asp?bbdw=陕西">陕西省</a> <a href="lawml.asp?bbdw=甘肃">甘肃省</a></p>
+			  <p><a href="lawml.asp?bbdw=青海">青海省</a> <a href="lawml.asp?bbdw=宁夏回族">宁夏回族自治区</a></p>
+			  <p><a href="lawml.asp?bbdw=新疆维吾尔">新疆维吾尔自治区</a></p>
+			  <p class="pmore"><a href="http://www.law-lib.com/law/bbdw-df.htm">更多省市自治区&gt;&gt;</a></p>
+
+   </div>
+</div>
+<div style="margin:10px 0px 0px 5px;">
+
+<script type="text/javascript">/*200*200，创建于2012-8-21*/ var cpro_id = 'u1030925';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+
+</div>
+<div style="text-align:center">
+<br />
+<script type="text/javascript"><!--
+google_ad_client = "pub-0482434302070489";
+/* 160x600, law-lib白底灰框 */
+google_ad_slot = "4452393317";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br />
+
+</div>
+</div>
+</div>
+<!--end sub_right-->
+
+<!--start footer_nav-->
+<div id="footer_nav">
+
+<br /><br />
+<p><a href="/">主页</a> | <a href="/site/about.htm">关于我们</a> | <a href="/site/sitemap.htm">本站地图</a> | <a href="/site/ads.htm">广告服务</a> | <a href="/site/agent.htm">诚招代理</a> | <a href="/products/">产品服务</a> | <a href="/vip/">在线数据库</a> | <a href="/site/contacts.htm">联系方式</a></p>
+<p>Copyright &copy; 1999-2017 杭州法图网络科技有限公司</p>
+
+
+
+</div>
+
+<br /><br /><br /><br />
+<!--end footer_nav-->
+
+
+
+</div><!--end contain-->
+</div><!--end box-->
+</body>
+</html>

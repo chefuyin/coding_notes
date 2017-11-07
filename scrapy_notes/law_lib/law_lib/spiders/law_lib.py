@@ -37,10 +37,56 @@ class Myspider(scrapy.Spider):
         list=[]
         for page in list_pages:
             if len(page.split('/'))==1:
-                page=self.base_url+page
+                page=self.base_url+page.replace('law_view.','law_view1.')
                 list.append(page)
             else:
-                list.append(page)
+                list.append(page.replace('law_view.','law_view1.'))
         list.append(response.url)
-        print(list)
-        # print(response.text)
+        for url in list:
+            yield Request(url,self.get_law_list)
+
+    def get_law_list(self,response):
+        selector=lxml.html.fromstring(response.text)
+        law_list=selector.xpath('//ul[@class="law_list"]/li//span')
+        for law in law_list:
+            href=law[0].get('href')#law[0]==a标签
+            if len(href.split('/'))==1:
+                url=self.base_url+href
+            else:
+                url=href
+            title=law[0].get('title')
+            yield Request(url,self.get_law_page,meta={'title':title,'url':url})
+
+    def get_law_page(self,response):
+        selector = lxml.html.fromstring(response.text)
+        db=selector.xpath('//div[@class="content_view"]/a/text()')
+        if db=='':
+            pass
+        else:
+            if db[-1]=='在线数据库':
+                pass
+            else:
+                item=LawLibItem()
+                item['law_lib_url']=response.meta['url']
+                item['title']=response.meta['title']
+                infos=selector.xpath('//ul[@class="left_conul"]/li/text()')
+                item['department']=infos[1].split("】")[1]
+                item['publish_number']=infos[2].split("】")[1]
+                item['publish_date']=infos[3].split("】")[1]
+                item['invalid_date']=infos[4].split("】")[1]
+                item['source']=infos[5].split("】")[1]
+                contents=selector.xpath('//div[@class="content_view"]/text()')
+                content_list=[]
+                for c in contents:
+                    if c.strip()=='':
+                        pass
+                    else:
+                        content_list.append(c.strip())
+                content='\n'.join(content_list)
+                item['content']=content
+                return item
+
+
+
+
+
